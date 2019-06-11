@@ -1,5 +1,7 @@
 # Project 1: Learn Bazel
 
+## Install Bazel 0.13
+
 ## Files You Need to Change
 
 third-party-libs/rocksdb/BUILD

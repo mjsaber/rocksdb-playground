@@ -32,6 +32,7 @@ cc_library(
     srcs = glob(
         [
             "cache/**/*.cc",
+            "db/**/*.cc",
             "env/**/*.cc",
             "memtable/**/*.cc",
             "monitoring/**/*.cc",
@@ -63,6 +64,7 @@ cc_library(
     includes = [
         ".",
         "util",
+        "include",
     ],
     copts = [
         "-DROCKSDB_PLATFORM_POSIX",
@@ -82,6 +84,7 @@ cc_library(
     }),
     deps = [
         "//external:gtest",
+        "//external:gflags",
     ],
     linkopts = [
         "-lm",
