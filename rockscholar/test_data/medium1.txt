@@ -1,0 +1,629 @@
+{"citation": "J\u00f6rg Arndt", "id": 1, "title": "Plane-filling curves on all uniform grids"}
+{"citation": "Alexei Shadrin", "id": 2, "title": "Landau--Kolmogorov inequality revisited"}
+{"citation": "T. C. Fujita, M. Uchida, Y. Kozuka, W. Sano, A. Tsukazaki, T. Arima, M. Kawasaki", "id": 3, "title": "All-in-all-out magnetic domain wall conduction in pyrochlore iridate\n  heterointerface"}
+{"citation": "Zaid Hussain", "id": 4, "title": "An Improved One-to-All Broadcasting in Higher Dimensional\n  Eisenstein-Jacobi Networks"}
+{"citation": "James McKee, Chris Smyth", "id": 5, "title": "Integer symmetric matrices having all their eigenvalues in the interval\n  [-2,2]"}
+{"citation": "Jorg Koppitz, Slavcho Shtrakov", "id": 6, "title": "On mappings of terms determined by hypersubstitutions"}
+{"citation": "Tullio Ceccherini-Silberstein, Michel Coornaert", "id": 7, "title": "On surjunctive monoids"}
+{"citation": "Jason Brown, Lucas Mol", "id": 8, "title": "On the roots of all-terminal reliability polynomials"}
+{"citation": "L. Opherden, J. Hornung, T. Herrmannsd\u00f6rfer, J. Xu, A. T. M. N. Islam, B. Lake, J. Wosnitza", "id": 9, "title": "Evolution of antiferromagnetic domains in the all-in-all-out ordered\n  pyrochlore Nd$_2$Zr$_2$O$_7$"}
+{"citation": "Michael Pinsker", "id": 10, "title": "Maximal clones on uncountable sets that include all permutations"}
+{"citation": "Karin Halupczok", "id": 11, "title": "On the ternary Goldbach problem with primes in independent arithmetic\n  progressions"}
+{"citation": "Arnaldo Nogueira, Benito Pires, Serge Troubetzkoy", "id": 12, "title": "Orbit structure of interval exchange transformations with flip"}
+{"citation": "Nuno Freitas, Panagiotis Tsaknias", "id": 13, "title": "Criteria for p-ordinarity of families of elliptic curves over infinitely\n  many number fields"}
+{"citation": "Justin DeBenedetto, Jeremy Rouse", "id": 14, "title": "Quadratic forms representing all integers coprime to 3"}
+{"citation": "Chaya Keller, Micha A. Perles, Eduardo Rivera-Campo, Virginia Urrutia-Galicia", "id": 15, "title": "Blockers for non-crossing spanning trees in complete geometric graphs"}
+{"citation": "Soham R. Phade, Venkat Anantharam", "id": 16, "title": "On the Geometry of Nash and Correlated Equilibria with Cumulative\n  Prospect Theoretic Preferences"}
+{"citation": "S. Osone", "id": 17, "title": "Feasibility of GRB with TeV gamma ray all sky monitor"}
+{"citation": "Elemer E Rosinger", "id": 18, "title": "On the Possible Monoid Structures of the Natural Numbers N, or Finding\n  All Associative Binary Operations on N"}
+{"citation": "Frank Leitenberger", "id": 19, "title": "Quantum Lobachevsky Planes"}
+{"citation": "Roman Kolpakov", "id": 20, "title": "On primary and secondary repetitions in words"}
+{"citation": "Andrei Gruzinov", "id": 21, "title": "All Fierz-Paulian massive gravity theories have ghosts or superluminal\n  modes"}
+{"citation": "Yaroslav Naprienko", "id": 22, "title": "A convergent $1/n$-expansion for GSE and GOE"}
+{"citation": "Antonio Jes\u00fas Calder\u00f3n, Amir Fern\u00e1ndez Ouaridi, Ivan Kaygorodov", "id": 23, "title": "The classification of $n$-dimensional anticommutative algebras with\n  $(n-3)$-dimensional annihilator"}
+{"citation": "Saharon Shelah, Juris Stepr\u0101ns", "id": 24, "title": "The covering numbers of Mycielski ideals are all equal"}
+{"citation": "Boris Horvat, Ga\u0161per Jakli\u010d, Toma\u017e Pisanski", "id": 25, "title": "On the Number of Hamiltonian Groups"}
+{"citation": "P. Gilkey, S. Nikcevic", "id": 26, "title": "Isometry groups of k-curvature homogeneous pseudo-Riemannian manifolds"}
+{"citation": "Qiongtao Xie, Xiaobing Luo, Biao Wu", "id": 27, "title": "All-optical switch with two periodically curved nonlinear waveguides"}
+{"citation": "Xiaoming Du", "id": 28, "title": "On Self-mapping Degrees of $S^3$-geometry manifolds"}
+{"citation": "Daniel Farley, Lucas Sabalka", "id": 29, "title": "Presentations of Graph Braid Groups"}
+{"citation": "Kai Han, Yang Liu, Jun Luo", "id": 30, "title": "Minimum-Energy All-to-All Multicasting in Multi-hop Wireless Networks"}
+{"citation": "Dmitry Doryn", "id": 31, "title": "The $c_2$ invariant is invariant"}
+{"citation": "Xinyun Zhu", "id": 32, "title": "Zero-divisor graph with seven vertices"}
+{"citation": "Tilman Moeller, Gerhard Roehrle", "id": 33, "title": "Nice Restrictions of Reflection Arrangements"}
+{"citation": "Dominic Descombes, Ma\u00ebl Pav\u00f3n", "id": 34, "title": "Injective Subsets of $l_{\\infty}(I)$"}
+{"citation": "Viktor Lopatkin", "id": 35, "title": "Derivations of the Leavitt path algebra W(n)"}
+{"citation": "Michael B. Cohen", "id": 36, "title": "Ramanujan Graphs in Polynomial Time"}
+{"citation": "Will Critchlow", "id": 37, "title": "Minors of asymptotically almost all sparse paving matroids"}
+{"citation": "Grzegorz Bobi\u0144ski, Jan Schr\u00f6er", "id": 38, "title": "Algebras with irreducible module varieties I"}
+{"citation": "Michael Pinsker", "id": 39, "title": "Clones on infinite sets"}
+{"citation": "Ehsan Hatefi", "id": 40, "title": "On WZ and RR Couplings of BPS Branes and their all order $\u03b1'$\n  Corrections in IIB, IIA"}
+{"citation": "Alexander Reznikov", "id": 41, "title": "All regulators of flat bundles are torsion"}
+{"citation": "Vikram Soni", "id": 42, "title": "Strong interactions at all density"}
+{"citation": "Tahl Nowik", "id": 43, "title": "Higher Order Invariants of Immersions of Surfaces into 3-Space"}
+{"citation": "Fedor Pakovich", "id": 44, "title": "On polynomials orthogonal to all powers of a Chebyshev polynomial on a\n  segment"}
+{"citation": "Mikhail Muzychuk, Qing Xiang", "id": 45, "title": "Symmetric Bush-type Hadamard matrices of order $4m^4$ exist for all odd\n  $m$"}
+{"citation": "Remke Kloosterman", "id": 46, "title": "Classification of all Jacobian elliptic fibrations on certain K3\n  surfaces"}
+{"citation": "T. C. Ralph", "id": 47, "title": "All Optical Quantum Teleportation"}
+{"citation": "Claus Michael Ringel", "id": 48, "title": "The Self-injective Cluster Tilted Algebras"}
+{"citation": "R. G. Edwards, G. T. Fleming, B. Joo, K. J. Juge, A. Lichtl, C. J. Morningstar, D. G. Richards, S. J. Wallace", "id": 49, "title": "Group Theoretical Construction of Nucleon Operators using All-to-All\n  Quark Propagators"}
+{"citation": "Rainer Dick", "id": 50, "title": "Supertranslations to all orders"}
+{"citation": "Alexander Lytchak", "id": 51, "title": "Affine images of Riemannian manifolds"}
+{"citation": "Jawad Sadek, Russell Euler", "id": 52, "title": "A Formula For All K-Gonal Numbers that Are Centered"}
+{"citation": "Peter B. Shalen", "id": 53, "title": "A Generic Margulis Number for Hyperbolic 3-Manifolds"}
+{"citation": "Hongliang Lu", "id": 54, "title": "Simplified existence theorems on all fractional [a,b]-factors"}
+{"citation": "Tong-Wook Shinn, Tadao Takaoka", "id": 55, "title": "Combining All Pairs Shortest Paths and All Pairs Bottleneck Paths\n  Problems"}
+{"citation": "Robert Kottwitz", "id": 56, "title": "B(G) for all local and global fields"}
+{"citation": "Gilles Dowek", "id": 57, "title": "Deduction modulo theory"}
+{"citation": "Francesco Calogero", "id": 58, "title": "Nonlinear differential algorithm to compute all the zeros of a generic\n  polynomial"}
+{"citation": "Cory J. Kleinheksel, Arun K. Somani", "id": 59, "title": "Scaling Distributed All-Pairs Algorithms: Manage Computation and Limit\n  Data Replication with Quorums"}
+{"citation": "Ronen Peretz", "id": 60, "title": "The Jacobian Conjecture for the space of all the inner functions"}
+{"citation": "Valentin Poenaru", "id": 61, "title": "All finitely presented groups are QSF"}
+{"citation": "Nitin Nitsure", "id": 62, "title": "How to construct a closed subscheme, or a coherent subsheaf, with\n  prescribed germs"}
+{"citation": "N. Chevallier, A. Fruchard", "id": 63, "title": "What is the minimal cardinal of a family which shatters all d-subsets of\n  a finite set?"}
+{"citation": "Selcan Aksoy", "id": 64, "title": "2 Category of FRBSU Monoidal Categories and Crossed Modules"}
+{"citation": "Silvia Steila", "id": 65, "title": "Some algebraic equivalent forms of $\\mathbb{R} \\subseteq L$"}
+{"citation": "Wim Veldman", "id": 66, "title": "Retracing Cantor's first steps in Brouwer's company"}
+{"citation": "Arkady G. Leiderman, Sidney A. Morris, Mikhail G. Tkachenko", "id": 67, "title": "The Separable Quotient Problem for Topological Groups"}
+{"citation": "Dmitry N. Chigrin, Andrei V. Lavrinenko, Dmitry A. Yarotsky, Sergey V. Gaponenko", "id": 68, "title": "All-dielectric one-dimensional periodic structures for total\n  omnidirectional reflection and partial spontaneous emission control"}
+{"citation": "Andreas Karch, Dieter Lust, George Zoupanos", "id": 69, "title": "Dualities in all order finite N=1 gauge theories"}
+{"citation": "H. Babujian, M. Karowski", "id": 70, "title": "The Exact Quantum Sine-Gordon Field Equation and Other Non-Perturbative\n  Results"}
+{"citation": "Friedrich Wehrung, Kira Adaricheva", "id": 71, "title": "Embedding finite lattices into finite biatomic lattices"}
+{"citation": "James McKee, Chris Smyth", "id": 72, "title": "Salem numbers, Pisot numbers, Mahler measure and graphs"}
+{"citation": "Amy Glen, Jacques Justin, Giuseppe Pirillo", "id": 73, "title": "Characterizations of finite and infinite episturmian words via\n  lexicographic orderings"}
+{"citation": "Ina Voigt", "id": 74, "title": "Voronoi cells of discrete point sets"}
+{"citation": "Robert L. Kurucz", "id": 75, "title": "Including All the Lines"}
+{"citation": "Pooja Singla", "id": 76, "title": "On Representations of General Linear Groups over Principal Ideal Local\n  Rings of Length Two"}
+{"citation": "Zoltan Esik, Andreas Maletti", "id": 77, "title": "Simulation vs. Equivalence"}
+{"citation": "Mathew Bullimore", "id": 78, "title": "MHV Diagrams from an All-Line Recursion Relation"}
+{"citation": "Ren Guo", "id": 79, "title": "Extremum problems for eigenvalues of discrete Laplace operators"}
+{"citation": "Hyongsuk Kim, Maheshwar Pd. Sah, Shyam Prasad Adhikari", "id": 80, "title": "Pinched Hysteresis Loops is the Fingerprint of Memristive Devices"}
+{"citation": "Qing Zheng", "id": 81, "title": "On the SOA-based MZI all-optical logic gates for all-optical networks"}
+{"citation": "Maxime Crochemore, Costas Iliopoulos, Tomasz Kociumaka, Marcin Kubica, Jakub Pachocki, Jakub Radoszewski, Wojciech Rytter, Wojciech Tyczy\u0144ski, Tomasz Wale\u0144", "id": 82, "title": "A Note on Efficient Computation of All Abelian Periods in a String"}
+{"citation": "E. V. Sokolov", "id": 83, "title": "On the cyclic subgroup separability of the free product of two groups\n  with commuting subgroups"}
+{"citation": "Wencai Liu, Xiaoping Yuan", "id": 84, "title": "Spectral Gaps of Almost Mathieu Operator in Exponential Regime"}
+{"citation": "Ian M. Aberbach, Aline Hosry, Janet Striuli", "id": 85, "title": "Uniform Artin-Rees Bounds for Syzygies"}
+{"citation": "Manuel Cort\u00e9s-Izurdiaga", "id": 86, "title": "The cotorsion pair generated by the class of flat Mittag-Leffler modules"}
+{"citation": "Moharram Aghapournahr", "id": 87, "title": "On the vanishing and finiteness properties of generalized local\n  cohomology modules"}
+{"citation": "Martin Goldstern, G\u00e1bor S\u00e1gi, Saharon Shelah", "id": 88, "title": "Clones above the unary clone"}
+{"citation": "Damjana Kokol Bukovsek, Blaz Mojskerc", "id": 89, "title": "Jordan triple product homomorphisms on Hermitian matrices to and from\n  dimension one"}
+{"citation": "Kexiang Xu, Kinkar Ch. Das, Xiao-Dong Zhang", "id": 90, "title": "Ordering connected graphs by their Kirchhoff indices"}
+{"citation": "Long-Tu Yuan, Xiao-Dong Zhang", "id": 91, "title": "A Variation of the Erd\u0151s-S\u00f3s Conjecture in Bipartite Graphs"}
+{"citation": "Yoel Grinshpon, Ori Gurel-Gurevich", "id": 92, "title": "Optimal broadcasting in networks with faulty nodes"}
+{"citation": "Noah Kravitz", "id": 93, "title": "Refining the Two-Dimensional Signed Small Ball Inequality"}
+{"citation": "Krishna Kishore", "id": 94, "title": "Inner cohomology of $GL_n$"}
+{"citation": "M. R. Emamy-K., Bahman Kalantari, Tatiana Correa", "id": 95, "title": "The edge-vertex inequality in a planar graph and a bipartition for the\n  class of all planar graphs"}
+{"citation": "Chaim Even-Zohar, Joel Hass, Nati Linial, Tahl Nowik", "id": 96, "title": "Universal Knot Diagrams"}
+{"citation": "Han Ju Lee", "id": 97, "title": "Strong peak points and denseness of strong peak functions"}
+{"citation": "E. V. Sokolov", "id": 98, "title": "On the cyclic subgroup separability of free products of two groups with\n  amalgamated subgroup"}
+{"citation": "Jinshan Zhang, Yan Huo, Fengshan Bai", "id": 99, "title": "An analysis of a random algorithm for estimating all the matchings"}
+{"citation": "G. De las Cuevas, W. D\u00fcr, H. J. Briegel, M. A. Martin-Delgado", "id": 100, "title": "Unifying all classical spin models in a Lattice Gauge Theory"}
+{"citation": "Radoslav Kirov, Ramin Naimi", "id": 101, "title": "List Coloring and $n$-monophilic graphs"}
+{"citation": "Jeremy Rouse", "id": 102, "title": "Quadratic forms representing all odd positive integers"}
+{"citation": "Salini K., R. Prabhu, Aditi Sen De, Ujjwal Sen", "id": 103, "title": "All Multiparty Quantum States Can Be Made Monogamous"}
+{"citation": "A. Anokhina, A. Mironov, A. Morozov, An. Morozov", "id": 104, "title": "Racah coefficients and extended HOMFLY polynomials for all 5-, 6- and\n  7-strand braids"}
+{"citation": "Michiel de Bondt", "id": 105, "title": "Quasi-translations and singular Hessians"}
+{"citation": "Michael Menz, Justin Wang, Jiyang Xie", "id": 106, "title": "Discrete All-Pay Bidding Games"}
+{"citation": "Jean Pierre Jung, Ibrahima Sakho", "id": 107, "title": "On The Optimality Of All To All Broadcast In k ary n dimensional Tori"}
+{"citation": "Jonathan Bloom, Dan Saracino", "id": 108, "title": "Pattern avoidance for set partitions \u00e0 la Klazar"}
+{"citation": "Aihua Fan, Yunping Jiang", "id": 109, "title": "Oscillating Sequences, Minimal Mean Attractability and Minimal\n  Mean-Lyapunov-Stability"}
+{"citation": "Michel Deza, Mark Pankov", "id": 110, "title": "On the lengths of zigzags in thin complexes"}
+{"citation": "Juan Climent Vidal, Enric Cosme Ll\u00f3pez", "id": 111, "title": "Eilenberg theorems for many-sorted formations"}
+{"citation": "Hung-Lin Fu, Yuan-Hsun Lo, Wing Shing Wong, Yijin Zhang", "id": 112, "title": "The Undirected Optical Indices of Complete $m$-ary Trees"}
+{"citation": "Alireza Tavanfar", "id": 113, "title": "HoloQuantum HyperNetwork Theory"}
+{"citation": "Jeffrey Shallit, Arseny M. Shur", "id": 114, "title": "Subword complexity and power avoidance"}
+{"citation": "Hajar Roshan-Shekalgourabi, Marzieh Hatamkhani", "id": 115, "title": "Hartshorne's questions and weakly cofiniteness"}
+{"citation": "Tim Boykett, Jarkko Kari, Ville Salo", "id": 116, "title": "Finite generating sets for reversible gate sets under general\n  conservation laws"}
+{"citation": "Anoosheh Heidarzadeh, Ishan Tyagi, Srinivas Shakkottai, Alex Sprintson", "id": 117, "title": "A Monetary Mechanism for Stabilizing Cooperative Data Exchange with\n  Selfish Users"}
+{"citation": "Forough Nasseri", "id": 118, "title": "Chaotic infaltion with a quadratic potential in all dimensions"}
+{"citation": "B. Hamprecht, W. Janke, H. Kleinert", "id": 119, "title": "End-to-End Distribution Function"}
+{"citation": "I. Royen", "id": 120, "title": "A Low-Nussinov Model for Elastic Vector Meson Production at HERA"}
+{"citation": "A. E. Inopin", "id": 121, "title": "The Naked Truth about Hadronic Regge Trajectories"}
+{"citation": "Nobuyoshi Ohta", "id": 122, "title": "All the Exact Solutions of Generalized Calogero-Sutherland Models"}
+{"citation": "C. Adam", "id": 123, "title": "Consistent and covariant commutator anomalies in the chiral Schwinger\n  model"}
+{"citation": "B. Eynard", "id": 124, "title": "All genus correlation functions for the hermitian 1-matrix model"}
+{"citation": "Jack Button", "id": 125, "title": "All Fuchsian Schottky groups are classical Schottky groups"}
+{"citation": "T. Gannon", "id": 126, "title": "The automorphisms of affine fusion rings"}
+{"citation": "Lajos Molnar", "id": 127, "title": "On certain automorphisms of sets of partial isometries"}
+{"citation": "Malgorzata Rowicka-Kudlicka", "id": 128, "title": "Unitary representations of the quantum \"ax+b\" group"}
+{"citation": "Malgorzata Rowicka", "id": 129, "title": "Quantum \"az+b\" group at roots of unity: unitary representations"}
+{"citation": "Lajos Molnar", "id": 130, "title": "Local automorphisms of some quantum mechanical structures"}
+{"citation": "Francesco Zucconi", "id": 131, "title": "Abelian covers and isotrivial canonical fibrations"}
+{"citation": "T. Mansour, J. West", "id": 132, "title": "Avoiding 2-letter signed patterns"}
+{"citation": "N. Brodsky, A. Chigogidze, E. V. Shchepin", "id": 133, "title": "Sections of Serre fibrations with low-dimensional fibers"}
+{"citation": "Lajos Molnar, Werner Timmermann", "id": 134, "title": "Isometries of quantum states"}
+{"citation": "V. V. Genk", "id": 135, "title": "On the products in the finite groups"}
+{"citation": "S. V. Ivanov, A. M. Storozhev", "id": 136, "title": "On varieties of groups in which all periodic groups are abelian"}
+{"citation": "Armin Rainer", "id": 137, "title": "Orbit projections as fibrations"}
+{"citation": "Fengbo Hang", "id": 138, "title": "On the integral systems related to Hardy-Littlewood-Sobolev inequality"}
+{"citation": "Boris Kupershmidt, Ognyan Stoyanov", "id": 139, "title": "Classification of All Poisson-Lie Structures on an Infinite-Dimensional\n  Jet Group"}
+{"citation": "Wei Wang, Jean-Jacques E. Slotine", "id": 140, "title": "K-Winners-Take-All Computation with Neural Oscillators"}
+{"citation": "S. Virmani, M. B. Plenio", "id": 141, "title": "Ordering States with Entanglement Measures"}
+{"citation": "Guillaume Alain", "id": 142, "title": "Simultaneous approximation of a real number by all conjugates of an\n  algebraic number"}
+{"citation": "U. Gran, J. Gutowski, G. Papadopoulos, D. Roest", "id": 143, "title": "IIB solutions with N>28 Killing spinors are maximally supersymmetric"}
+{"citation": "Yang Han, Deke Zhao", "id": 144, "title": "Superspecies and their representations"}
+{"citation": "D. Bennis, N. Mahdou, K. Ouarghi", "id": 145, "title": "Rings over which all modules are strongly Gorenstein projective"}
+{"citation": "Christoph Schmid", "id": 146, "title": "Mach's Principle: Exact Frame-Dragging by Energy Currents in the\n  Universe"}
+{"citation": "Sooraj Kuttykrishnan", "id": 147, "title": "Some Stably Tame Polynomial Automorphisms"}
+{"citation": "James Currie, Narad Rampersad", "id": 148, "title": "There are k-uniform cubefree binary morphisms for all k >= 0"}
+{"citation": "Julia B\u00f6ttcher, Jan Hladky, Diana Piguet", "id": 149, "title": "The tripartite Ramsey number for trees"}
+{"citation": "Hajime Urakawa", "id": 150, "title": "Biharmonic maps into compact Lie groups and the integrable systems"}
+{"citation": "Sylwia Cichacz, Agnieszka Goerlich", "id": 151, "title": "A note on $k$-cordial $p$-uniform hypertrees"}
+{"citation": "I. F. Ginzburg", "id": 152, "title": "Lessons from All Logs Summation in Yukawa Theories"}
+{"citation": "Don N. Page", "id": 153, "title": "Some Gravitational Instantons"}
+{"citation": "David J. Green, Simon A. King", "id": 154, "title": "The computation of the cohomology rings of all groups of order 128"}
+{"citation": "Ilijas Farah", "id": 155, "title": "All automorphisms of all Calkin algebras"}
+{"citation": "Zachary Mesyan", "id": 156, "title": "Monoids of injective maps closed under conjugation by permutations"}
+{"citation": "E. R. Vaughan", "id": 157, "title": "An Asymptotic Version of the Multigraph 1-Factorization Conjecture"}
+{"citation": "Gary Greaves", "id": 158, "title": "Cyclotomic matrices over the Eisenstein and Gaussian integers"}
+{"citation": "Michael Bogner, Stefan Reiter", "id": 159, "title": "On symplectically rigid local systems of rank four and Calabi-Yau\n  operators"}
+{"citation": "Ga\u00ebtan Borot, C\u00e9line Nadal", "id": 160, "title": "Right tail expansion of Tracy-Widom beta laws"}
+{"citation": "Bertrand Guillou, Charles Weibel", "id": 161, "title": "Unstable operations in \u00e9tale and motivic cohomology"}
+{"citation": "Haiping Yuan, Jianqiang Zhao", "id": 162, "title": "Restricted Sum Formula of Multiple Zeta Values"}
+{"citation": "Jos\u00e9 Burillo, Sean Cleary, Claas E. R\u00f6ver", "id": 163, "title": "Obstructions for subgroups of Thompson's group $V$"}
+{"citation": "Janusz Migda", "id": 164, "title": "Asymptotically polynomial solutions of difference equations of neutral\n  type"}
+{"citation": "Wesley Calvert", "id": 165, "title": "PAC Learning, VC Dimension, and the Arithmetic Hierarchy"}
+{"citation": "James Fullwood", "id": 166, "title": "On Euler polynomials for projective hypersurfaces"}
+{"citation": "Uri Bader, Alex Furman, Roman Sauer", "id": 167, "title": "On the structure and arithmeticity of lattice envelopes"}
+{"citation": "David Ginzburg", "id": 168, "title": "Classification of some Global Integrals related to groups of type $A_n$"}
+{"citation": "Man Kam Kwong", "id": 169, "title": "A New Family of Nonnegative Sine Polynomials"}
+{"citation": "Mohammad Golshani", "id": 170, "title": "All uncountable regular cardinals can be inaccessible in HOD"}
+{"citation": "Tatiana Pires Bezerra Romildo Pina", "id": 171, "title": "Invariant Solutions for Gradient Ricci Almost Solitons"}
+{"citation": "Kai Ishihara, Matt Rathbun", "id": 172, "title": "Complete classification of generalized crossing changes between\n  GOF-knots"}
+{"citation": "Matej Bresar, Igor Klep", "id": 173, "title": "A Note on Values of Noncommutative Polynomials"}
+{"citation": "Gustavo Corach, Alejandra Maestripieri", "id": 174, "title": "Products of orthogonal projections and polar decompositions"}
+{"citation": "Benjamin Bond, Lionel Levine", "id": 175, "title": "Abelian networks II. Halting on all inputs"}
+{"citation": "Yury Kochetkov", "id": 176, "title": "Short catalog of plane ten-edge trees"}
+{"citation": "Anastasia Vasil'eva", "id": 177, "title": "Reconstruction of Eigenfunctions of q-ary n-dimensional Hypercube"}
+{"citation": "Stephen D. Cohen, Tom\u00e1s Oliveira e Silva, Tim Trudgian", "id": 178, "title": "On Grosswald's conjecture on primitive roots"}
+{"citation": "Alexander Krasnok, Sergey Makarov, Mikhail Petrov, Roman Savelev, Pavel Belov, Yuri Kivshar", "id": 179, "title": "Towards all-dielectric metamaterials and nanophotonics"}
+{"citation": "Dmitry Kosolobov", "id": 180, "title": "Computing Runs on a General Alphabet"}
+{"citation": "Svetlana Jitomirskaya, Ilya Kachkovskiy", "id": 181, "title": "All couplings localization for quasiperiodic operators with Lipschitz\n  monotone potentials"}
+{"citation": "Kyle D. Balliet", "id": 182, "title": "On the Prime Numbers in the Interval [4n,5n]"}
+{"citation": "Eugenio Bottacini, Marco Ajello", "id": 183, "title": "Deeply x-raying the high-energy sky"}
+{"citation": "Tong Chern", "id": 184, "title": "Simple Models for All Topological Phases"}
+{"citation": "Nofar Carmeli, Batya Kenig, Benny Kimelfeld", "id": 185, "title": "On the Enumeration of all Minimal Triangulations"}
+{"citation": "Xueyi Huang, Qiongxiang Huang", "id": 186, "title": "On graphs with three or four distinct normalized Laplacian eigenvalues"}
+{"citation": "Ond\u0159ej Kurka", "id": 187, "title": "Tsirelson-like spaces and complexity of classes of Banach spaces"}
+{"citation": "David Callan", "id": 188, "title": "Bijections for Dyck paths with all peak heights of the same parity"}
+{"citation": "Elisa Prato", "id": 189, "title": "Quasifolds"}
+{"citation": "Barbara Plank", "id": 190, "title": "ALL-IN-1: Short Text Classification with One Model for All Languages"}
+{"citation": "Khadijeh Alibabaei", "id": 191, "title": "The pseudovariety of all nilpotent groups is tame"}
+{"citation": "Christopher Doris", "id": 192, "title": "On enumerating extensions of p-adic fields with given invariants"}
+{"citation": "Sangwook Kim, Seunghyun Seo, Heesung Shin", "id": 193, "title": "Refined enumeration of vertices among all rooted ordered $d$-trees"}
+{"citation": "Dimitrios I. Dais, Martin Henk, Guenter M. Ziegler", "id": 194, "title": "All Abelian Quotient C.I.-Singularities Admit Projective Crepant\n  Resolutions in All Dimensions"}
+{"citation": "J. Greiner", "id": 195, "title": "Soft X-ray emission of VY Scl stars during optical high state"}
+{"citation": "D. W. Hoard, C. S. Brinkworth, S. Wachter", "id": 196, "title": "Infrared Properties of Cataclysmic Variables in the 2MASS All Sky Data\n  Release"}
+{"citation": "B. Hamprecht, H. Kleinert", "id": 197, "title": "End-To-End Distribution Function Function of Stiff Polymers for all\n  Persistence Lengths"}
+{"citation": "F. Borgonovi, G. L. Celardo, M. Maianti, E. Pedersoli", "id": 198, "title": "Broken Ergodicity in classically chaotic spin systems"}
+{"citation": "A. I. Arbab", "id": 199, "title": "On the Electromagnetism of Gravitational System and the Four Dimensional\n  Constants (c, h, k, G)"}
+{"citation": "Chris Michael, Janne Peisa", "id": 200, "title": "Exotic hadronic states and all-to-all quark propagators"}
+{"citation": "Alan O Cais, K. Jimmy Juge, Mike J. Peardon, Sinead M. Ryan, Jon-Ivar Skullerud", "id": 201, "title": "Improving Algorithms to Compute All Elements of the Lattice Quark\n  Propagator"}
+{"citation": "Constantia Alexandrou, Petros Dimopoulos, Giannis Koutsou, Hartmut Neff", "id": 202, "title": "Density-density correlators using all-to-all propagators"}
+{"citation": "S. Negishi, H. Matsufuru, T. Onogi", "id": 203, "title": "Precision study of B^* B\u03c0coupling for the static heavy-light meson"}
+{"citation": "Eric Braaten, Daniel Segel", "id": 204, "title": "Neutrino Energy Loss from the Plasma Process at all Temperatures and\n  Densities"}
+{"citation": "C. Lucchesi, G. Zoupanos", "id": 205, "title": "All-order Finiteness in N=1 SYM Theories: Criteria and Applications"}
+{"citation": "Arie Bodek, Un-ki Yang", "id": 206, "title": "A Unified Model for inelastic e-N and nu-N cross sections at all Q2"}
+{"citation": "A. De Rujula", "id": 207, "title": "A solution of a hoary conundrum: the origin and properties of cosmic\n  rays"}
+{"citation": "Terry Gannon, Mark A. Walton", "id": 208, "title": "On the Classification of Diagonal Coset Modular Invariants"}
+{"citation": "V. V. Uspenskij", "id": 209, "title": "A note on a question of R. Pol concerning light maps"}
+{"citation": "V. K. Kharchenko", "id": 210, "title": "Multilinear quantum Lie operations"}
+{"citation": "Michael Kleber", "id": 211, "title": "Linearly Independent Products of Rectangularly Complementary Schur\n  Functions"}
+{"citation": "Michael Pinsker", "id": 212, "title": "Clones containing all almost unary functions"}
+{"citation": "Margherita Barile", "id": 213, "title": "On a special class of simplicial toric varieties"}
+{"citation": "Thom Sulanke, Frank H. Lutz", "id": 214, "title": "Isomorphism-free lexicographic enumeration of triangulated surfaces and\n  3-manifolds"}
+{"citation": "Satoshi Murai", "id": 215, "title": "Monomial ideals arising from flag complexes whose generic initial ideals\n  do not depend on term orders"}
+{"citation": "Jesus A. De Loera, Fu Liu, Ruriko Yoshida", "id": 216, "title": "A Generating Function for all Semi-Magic Squares and the Volume of the\n  Birkhoff Polytope"}
+{"citation": "F. Bassani, V. Lucarini", "id": 217, "title": "General Properties of Optical Harmonic Generation from a simple\n  Oscillator Model"}
+{"citation": "Jean-Luc Brylinski, Ranee Brylinski", "id": 218, "title": "Universal quantum gates"}
+{"citation": "Yu Shi", "id": 219, "title": "All Entanglements in a Multipartite System"}
+{"citation": "Jorge Bellorin, Tomas Ortin", "id": 220, "title": "Characterization of all the supersymmetric solutions of gauged N=1,d=5\n  supergravity"}
+{"citation": "Konrad J Swanepoel", "id": 221, "title": "Unit distances and diameters in Euclidean spaces"}
+{"citation": "Georgi Dobromirov Dimov", "id": 222, "title": "Some Generalizations of Fedorchuk Duality Theorem -- I"}
+{"citation": " JLQCD collaboration, T. Kaneko, H. Fukaya, S. Hashimoto, H. Matsufuru, J. Noaki, T. Onogi, N. Yamada", "id": 223, "title": "Pion form factor from all-to-all propagators of overlap quarks"}
+{"citation": "Jeffrey Streets", "id": 224, "title": "Ricci Yang-Mills flow on surfaces"}
+{"citation": "Luis H. Gallardo, Olivier Rahavandrainy", "id": 225, "title": "Even perfect polynomials over $F_2$ with four prime factors"}
+{"citation": "Rob Fender", "id": 226, "title": "MAXI, LOFAR and Microquasars - All-sky monitoring of X-ray binaries in\n  X-rays and radio"}
+{"citation": "Behrooz Bagheri Gh., E. S. Mahmoodian", "id": 227, "title": "On the existence of k-homogeneous Latin bitrades"}
+{"citation": "Kamran Sharifi", "id": 228, "title": "The gap between unbounded regular operators"}
+{"citation": "Ichiro Yokota", "id": 229, "title": "Exceptional Lie groups"}
+{"citation": "Andrea Casaccino, Seth Lloyd, Stefano Mancini, Simone Severini", "id": 230, "title": "Quantum state transfer through a qubit network with energy shifts and\n  fluctuations"}
+{"citation": "James McKee, Chris Smyth", "id": 231, "title": "Integer symmetric matrices of small spectral radius and small Mahler\n  measure"}
+{"citation": "Jan H Meinke, Ulrich H E Hansmann", "id": 232, "title": "Protein simulations combining an all-atom force field with a Go term"}
+{"citation": "Umed H. Karimov, Du\u0161an Repov\u0161", "id": 233, "title": "On noncontractible compacta with trivial homology and homotopy groups"}
+{"citation": "Bruce Allison, Stephen Berman, Arturo Pianzola", "id": 234, "title": "Multiloop algebras, iterated loop algebras and extended affine Lie\n  algebras of nullity 2"}
+{"citation": "M-C. Anisiu, V. Anisiu, Z. Kasa", "id": 235, "title": "Properties of palindromes in finite words"}
+{"citation": "Jan E. \u00c5man", "id": 236, "title": "Investigation of all Ricci semi-symmetric and all conformally\n  semi-symmetric spacetimes"}
+{"citation": "David A. Craven, Adam Glesser", "id": 237, "title": "Fusion systems on small p-groups"}
+{"citation": "E. Rodney Canfield, Herbert S. Wilf", "id": 238, "title": "On the growth of restricted integer partition functions"}
+{"citation": "Song He, Tristan McLoughlin", "id": 239, "title": "On All-loop Integrands of Scattering Amplitudes in Planar N=4 SYM"}
+{"citation": "Junping Zhou, Minghao Yin", "id": 240, "title": "Phase Transitions of Plan Modification in Conformant Planning"}
+{"citation": "B. V. Ivanov", "id": 241, "title": "Evolving spheres of shear-free anisotropic fluid"}
+{"citation": "Jinn-Ouk Gong, Jai-chan Hwang, Wan Il Park, Misao Sasaki, Yong-Seon Song", "id": 242, "title": "Conformal invariance of curvature perturbation"}
+{"citation": "Vladimir Vovk", "id": 243, "title": "Losing money with a high Sharpe ratio"}
+{"citation": "Marzieh Arabi-Kakavand, Mahmood Behboodi", "id": 244, "title": "Modules Whose Classical Prime Submodules Are Intersections of Maximal\n  Submodules"}
+{"citation": "Jiankui Li, Zhidong Pan, Qihua Shen", "id": 245, "title": "Jordan and Jordan Higher All-derivable Points of Some Algebras"}
+{"citation": "Igor E. Shparlinski, Wolfgang Steiner", "id": 246, "title": "On digit patterns in expansions of rational numbers with prime\n  denominator"}
+{"citation": "Ville Salo", "id": 247, "title": "On Nilpotency and Asymptotic Nilpotency of Cellular Automata"}
+{"citation": "Taras Banakh, Iryna Pastukhova", "id": 248, "title": "Topological and ditopological unosemigroups"}
+{"citation": "Jie Zhang, Xiao-Dong Zhang", "id": 249, "title": "On signless Laplacian coefficients of unicyclic graphs with given\n  matching number"}
+{"citation": "J. Rif\u00e0, F. I. Solov'eva, M. Villanueva", "id": 250, "title": "Self-embeddings of Hamming Steiner triple systems of small order and APN\n  permutations"}
+{"citation": "N. A. Abiev, A. Arvanitoyeorgos, Yu. G. Nikonorov, P. Siasos", "id": 251, "title": "The Ricci flow on generalized Wallach spaces"}
+{"citation": "Vance Faber", "id": 252, "title": "Global communication algorithms for Cayley graphs"}
+{"citation": "Nitin Rakesh, Vipin Tyagi", "id": 253, "title": "Linear Network Coding on Multi-Mesh of Trees (MMT) using All to All\n  Broadcast (AAB)"}
+{"citation": "Nathaniel Johnston", "id": 254, "title": "Separability from Spectrum for Qubit-Qudit States"}
+{"citation": "Vincent Delecroix, Corinna Ulcigrai", "id": 255, "title": "Diagonal changes for surfaces in hyperelliptic components"}
+{"citation": "P. Darbari, B. Khosravi", "id": 256, "title": "Group With Maximum Undirected Edges in Directed Power Graph Among All\n  Finite Non-Cyclic Nilpotent Groups"}
+{"citation": "Georg Nawratil, Josef Schicho", "id": 257, "title": "Pentapods with Mobility 2"}
+{"citation": "Michael Oelze, Arnaud Vandaele, Stefan Weltge", "id": 258, "title": "Computing The Extension Complexities of All 4-Dimensional 0/1-Polytopes"}
+{"citation": "Fatmah B. Jamjoom, Antonio M. Peralta, Akhlaq A. Siddiqui", "id": 259, "title": "Jordan weak amenability and orthogonal forms on JB*-algebras"}
+{"citation": "Francis Bloch, Matthew O. Jackson, Pietro Tebaldi", "id": 260, "title": "Centrality Measures in Networks"}
+{"citation": "Amitai Regev, Doron Zeilberger", "id": 261, "title": "A Multi-Set Identity for Partitions"}
+{"citation": "Ian Pratt-Hartmann", "id": 262, "title": "The Hamiltonian Syllogistic"}
+{"citation": "Ken-ichi Kawarabayashi, David R. Wood", "id": 263, "title": "Cliques in Odd-Minor-Free Graphs"}
+{"citation": "Daniel Pellicer", "id": 264, "title": "Vertex-transitive maps with Schl\u00e4fli type {3, 7}"}
+{"citation": "Sasikanth Manipatruni, Dmitri E. Nikonov, Ian A. Young", "id": 265, "title": "All Spin Nano-magnetic State Elements"}
+{"citation": "Jean Bourgain, Moubariz Z. Garaev, Sergei V. Konyagin, Igor E. Shparlinski", "id": 266, "title": "Multiplicative Congruences with Variables from Short Intervals"}
+{"citation": "Alexander Slavik, Jan Trlifaj", "id": 267, "title": "Approximations and locally free modules"}
+{"citation": "Chen Jiang", "id": 268, "title": "On irregular threefolds and fourfolds with numerically trivial canonical\n  bundle"}
+{"citation": "Torsten Hoge, Gerhard Roehrle", "id": 269, "title": "Nice reflection arrangements"}
+{"citation": "Daniyar Kozybaev, Ualbai Umirbaev", "id": 270, "title": "Identities of the left-symmetric Witt algebras"}
+{"citation": "V. I. Murashka", "id": 271, "title": "On generalizations of Baer's theorems about the hypercenter of a finite\n  group"}
+{"citation": "Vladimir Shevelev", "id": 272, "title": "Set of all densities of exponentially S-numbers"}
+{"citation": "Mohamed Saidi", "id": 273, "title": "On the section conjecture over function fields and finitely generated\n  fields"}
+{"citation": "Tom\u00e1\u0161 V\u00e1vra, Francesco Veneziano", "id": 274, "title": "Pisot unit generators in number fields"}
+{"citation": "Yonah Biers-Ariel, Yiguang Zhang, Anant Godbole", "id": 275, "title": "Some Results on Superpatterns for Preferential Arrangements"}
+{"citation": "Mariagrazia Bianchi, Marcel Herzog", "id": 276, "title": "Finite groups with non-trivial intersections of kernels of all but one\n  irreducible characters"}
+{"citation": "Stefan Preussler, Gilda Raoof Mehrpoor, Thomas Schneider", "id": 277, "title": "Frequency-time coherence for all-optical sampling without optical pulse\n  source"}
+{"citation": "Thomas Royen", "id": 278, "title": "A Note on the Existence of the Multivariate Gamma Distribution"}
+{"citation": "V. I. Murashka", "id": 279, "title": "On a generalization of the concept of S-permutable subgroup of a finite\n  group"}
+{"citation": "Qingying Deng, Xian'an Jin", "id": 280, "title": "Characterizations of Eulerian and even-face partial duals of ribbon\n  graphs"}
+{"citation": "Gustav Mogull", "id": 281, "title": "A Tale of Two Loops: Simplifying All-Plus Yang-Mills Amplitudes"}
+{"citation": "Andrzej Pelc", "id": 282, "title": "Use of Information, Memory and Randomization in Asynchronous Gathering"}
+{"citation": "S. V. Gusev", "id": 283, "title": "Special elements of the lattice of monoid varieties"}
+{"citation": "Zahra Nili Ahmadabadi, Fatemah Ayatollah Zadeh Shirazi", "id": 284, "title": "Possible heights of graph transformation groups"}
+{"citation": "Sebastian Bustamante, Maya Stein", "id": 285, "title": "Partitioning $2$-coloured complete $k$-uniform hypergraphs into\n  monochromatic $\\ell$-cycles"}
+{"citation": "Chu Ryang Wie", "id": 286, "title": "A Quantum Circuit to Construct All Maximal Cliques Using Grover Search\n  Algorithm"}
+{"citation": "Lei Deng, Qiulin Lin", "id": 287, "title": "Convex Set of Doubly Substochastic Matrices"}
+{"citation": "Torsten Ehrhardt, Zheng Zhou", "id": 288, "title": "On the maximal ideal space of even quasicontinuous functions on the unit\n  circle"}
+{"citation": "Itamar Stein", "id": 289, "title": "The global dimension of the algebra of the monoid of all partial\n  functions on an $n$-set as the algebra of the EI-category of epimorphisms\n  between subsets"}
+{"citation": "Dominik Wojtczak", "id": 290, "title": "On Strong NP-Completeness of Rational Problems"}
+{"citation": "James East", "id": 291, "title": "Transformation representations of sandwich semigroups"}
+{"citation": "Endre Boros, Vladimir Gurvich, Nhan Bao Ho, Kazuhisa Makino, Peter Mursic", "id": 292, "title": "Sprague-Grundy Function of Matroids and Related Hypergraphs"}
+{"citation": "Yoshihito Tanaka", "id": 293, "title": "Duality for kappa-additive complete atomic modal algebras"}
+{"citation": "Yunkyu Bang", "id": 294, "title": "Phonon Boost Effect on the $S^{\\pm}$-wave Superconductor with Incipient\n  Band"}
+{"citation": "Souvik Dey", "id": 295, "title": "Commutative rings with every non-maximal ideal finitely generated"}
+{"citation": "Enrique Gonz\u00e1lez-Jim\u00e9nez, Filip Najman", "id": 296, "title": "Growth of torsion groups of elliptic curves upon base change"}
+{"citation": "F. Guinea", "id": 297, "title": "Simple model of anisotropic pairing with repulsive interactions"}
+{"citation": "Victor Kurasov", "id": 298, "title": "Various approximations for nucleation kinetics under smooth external\n  conditions"}
+{"citation": "David R. Karger", "id": 299, "title": "A Fully Polynomial Randomized Approximation Scheme for the All Terminal\n  Network Reliability Problem"}
+{"citation": "Herve Bronnimann, Olivier Devillers", "id": 300, "title": "The union of unit balls has quadratic complexity, even if they all\n  contain the origin"}
+{"citation": "B. Hoeneisen, C. Mar\u00edn", "id": 301, "title": "Three generation neutrino mixing is compatible with all experiments"}
+{"citation": "B. Alles, J. J. Alonso, C. Criado, M. Pepe", "id": 302, "title": "Reply to A. Patrascioiu's and E. Seiler's Comment on our paper\n  \"Percolation properties of the 2D Heisenberg model\""}
+{"citation": "D. Binosi, J. Papavassiliou", "id": 303, "title": "The QCD Effective Charge to All Orders"}
+{"citation": "Daniel I. Fivel", "id": 304, "title": "Proof of the Impossibility of Non-Contextual Hidden Variables in All\n  Hilbert Space Dimensions"}
+{"citation": "Martin Goldstern, Menachem Kojman", "id": 305, "title": "Universal bridge-free graphs"}
+{"citation": "Richard Haydon", "id": 306, "title": "Smooth functions and partitions of unity on certain Banach spaces"}
+{"citation": "Steven Dale Cutkosky", "id": 307, "title": "Simultaneous Resolution of Singularities"}
+{"citation": "Alexander Reznikov", "id": 308, "title": "Structure of Kahler groups, I: second cohomology"}
+{"citation": "Craig Benham, Xiao-Song Lin, David Miller", "id": 309, "title": "Subspaces of Knot Spaces"}
+{"citation": "Roger Ellman", "id": 310, "title": "A Proof of \"Goldbach's Conjecture\""}
+{"citation": "Toufik Mansour, Aaron Robertson", "id": 311, "title": "Refined Restricted Permutations Avoiding Subsets of Patterns of Length\n  Three"}
+{"citation": "D. D. Long, A. W. Reid", "id": 312, "title": "All flat manifolds are cusps of hyperbolic orbifolds"}
+{"citation": "I. Heckenberger, S. Kolb", "id": 313, "title": "Podle\u015b' Quantum Sphere: Dual Coalgebra and Classification of Covariant\n  First Order Differential Calculus"}
+{"citation": "Carina Boyallian, Victor G. Kac, Jose I. Liberati", "id": 314, "title": "Finite growth representations of infinite Lie conformal algebras"}
+{"citation": "Greg Friedman", "id": 315, "title": "All frame-spun knots are slice"}
+{"citation": "Ibrahim Assem, Manuel Saorin", "id": 316, "title": "Abelian exact subcategories closed under predecessors"}
+{"citation": "Guoce Xin", "id": 317, "title": "Constructing All Magic Squares of Order Three"}
+{"citation": "Dan Knopf", "id": 318, "title": "Positivity of Ricci curvature under the K\u00e4hler--Ricci flow"}
+{"citation": "Joachim Krieger, Wilhelm Schlag", "id": 319, "title": "Stable manifolds for all monic supercritical NLS in one dimension"}
+{"citation": "M. Yaskina", "id": 320, "title": "Non-intersection bodies all of whose central sections are intersection\n  bodies"}
+{"citation": "Armando Martino", "id": 321, "title": "A proof that all Seifert 3-manifold groups and all virtual surface\n  groups are conjugacy separable"}
+{"citation": "Palash B. Pal", "id": 322, "title": "Divisibility tests with weighted digital sums"}
+{"citation": "Andrew Granville, K. Soundararajan", "id": 323, "title": "Negative values of truncations to $L(1,\u03c7)$"}
+{"citation": "G. Y. Tsyaputa", "id": 324, "title": "Isolated and nilpotent subsemigroups in the variants of $\\IS$"}
+{"citation": "Olexandr Ganyushkin, Volodymyr Mazorchuk", "id": 325, "title": "On nilpotent subsemigroups in some matrix semigroups"}
+{"citation": "Don Blasius", "id": 326, "title": "Hilbert Modular Forms and the Ramanujan Conjecture"}
+{"citation": "Nikolaos Diamantis, David Sim", "id": 327, "title": "The classification of higher-order cusp forms"}
+{"citation": "Takesi Kawasaki", "id": 328, "title": "On Faltings' annihilator theorem"}
+{"citation": "Jan Cameron", "id": 329, "title": "Hochschild Cohomology of II_1 Factors with Cartan Masas"}
+{"citation": "V. V. Bavula", "id": 330, "title": "Primary Decompositions for Left Noetherian Rings"}
+{"citation": "Michael Giudici", "id": 331, "title": "Maximal subgroups of almost simple groups with socle $\\PSL(2,q)$"}
+{"citation": "Gunn A. Quznetsov", "id": 332, "title": "The physics space dimension"}
+{"citation": "V. A. Dzuba, V. V. Flambaum", "id": 333, "title": "Core-valence correlations for atoms with open shells"}
+{"citation": "Andris Ambainis", "id": 334, "title": "A note on quantum black-box complexity of almost all Boolean functions"}
+{"citation": "Jorge Caravantes", "id": 335, "title": "Fano threefolds with noncyclic torsion in the divisor class group"}
+{"citation": "Leopoldo Garavaglia, Mario Garavaglia", "id": 336, "title": "On the location and classification of all prime numbers"}
+{"citation": "Sergey Gubin", "id": 337, "title": "Finding Paths and Cycles in Graphs"}
+{"citation": "Georgi Dobromirov Dimov", "id": 338, "title": "A Generalization of De Vries Duality Theorem"}
+{"citation": "Tahl Nowik", "id": 339, "title": "Order one invariants of spherical curves"}
+{"citation": "G. R. Vijayakumar", "id": 340, "title": "A Method of Classifying Simple Laced Root Systems"}
+{"citation": "Kazuhiro Ichihara", "id": 341, "title": "All exceptional surgeries on alternating knots are integral surgeries"}
+{"citation": "Myung-Hwan Kim, Poo-Sung Park", "id": 342, "title": "2-universal Hermitian lattices over imaginary quadratic fields"}
+{"citation": "Daniel Kr\u00e1l', Ladislav Stacho", "id": 343, "title": "Coloring plane graphs with independent crossings"}
+{"citation": "Aldo J. Lazar", "id": 344, "title": "Hyperspaces of Closed Limit Sets"}
+{"citation": "Jimmy Tseng", "id": 345, "title": "Badly approximable affine forms and Schmidt games"}
+{"citation": "Fabrizio Caselli", "id": 346, "title": "Projective reflection groups"}
+{"citation": "John Olsen", "id": 347, "title": "Three dimensional manifolds all of whose geodesics are closed"}
+{"citation": "M. Brozos-Vazquez, G. Calvaruso, E. Garcia-Rio, S. Gavino-Fernandez", "id": 348, "title": "Three-dimensional Lorentzian homogeneous Ricci solitons"}
+{"citation": "Joe P. Buhler, David Harvey", "id": 349, "title": "Irregular primes to 163 million"}
+{"citation": "Hajime Urakawa", "id": 350, "title": "Projectively flat connections and flat connections on homogeneous spaces"}
+{"citation": "Constantin Vrejoiu, Roxana Zus", "id": 351, "title": "Singular behaviour of the electromagnetic field (the static case\n  revisited)"}
+{"citation": "Sergey M. Zagorodnyuk", "id": 352, "title": "The matrix Stieltjes moment problem: a description of all solutions"}
+{"citation": "Xiangqian Guo, Xuewen Liu, Kaiming Zhao", "id": 353, "title": "Harish-Chandra modules over the $\\Q$ Heisenberg-Virasoro Algebra"}
+{"citation": "Luis H. Gallardo, Olivier Rahavandrainy", "id": 354, "title": "All unitary perfect polynomials over $F_2$ with less than five distinct\n  prime factors"}
+{"citation": "Artur Avila", "id": 355, "title": "Density of positive Lyapunov exponents for SL(2,R) cocycles"}
+{"citation": "Y. O. Hamidoune, A. Llad\u00f3, S. C. L\u00f3pez", "id": 356, "title": "On vosperian and superconnected vertex-transitive digraphs"}
+{"citation": "Reza Hosseini", "id": 357, "title": "Closure of Random samples"}
+{"citation": "Emilie Charlier, Anne Lacroix, Narad Rampersad", "id": 358, "title": "Multi-dimensional sets recognizable in all abstract numeration systems"}
+{"citation": "Michael Christ", "id": 359, "title": "Extremizers of a Radon transform inequality"}
+{"citation": "Alexander Lubotzky, Chen Meiri", "id": 360, "title": "Sieve methods in group theory \\Rmnum{3}: $\\aut(F_n)$"}
+{"citation": "Han-Bom Moon", "id": 361, "title": "Log canonical models for $\\bar{M}_{g,n}$"}
+{"citation": "C. G. Torre", "id": 362, "title": "All homogeneous pure radiation spacetimes satisfy the Einstein-Maxwell\n  equations"}
+{"citation": "Sergii Kutsak", "id": 363, "title": "Invariant contact structures on 7-dimensional nilmanifolds"}
+{"citation": "Sean Eberhard", "id": 364, "title": "Almost all sets of d+2 points on the (d-1)-sphere are not subtransitive"}
+{"citation": "Jennifer Johnson-Leung", "id": 365, "title": "The local equivariant Tamagawa number conjecture for almost abelian\n  extensions"}
+{"citation": "Gigel Militaru", "id": 366, "title": "The global extension problem, co-flag and metabelian Leibniz algebras"}
+{"citation": "Frank Himstedt, Felix Noeske", "id": 367, "title": "Decomposition numbers of SO_7(q) and Sp_6(q)"}
+{"citation": "Arkadius Kalka, Mina Teicher", "id": 368, "title": "Non-associative key establishment protocols and their implementation"}
+{"citation": "Nicolas Gisin", "id": 369, "title": "A possible definition of a {\\it Realistic} Physics Theory"}
+{"citation": "Robert Graf", "id": 370, "title": "Self-destructive percolation as a limit of forest-fire models on regular\n  rooted trees"}
+{"citation": "Heng-Soon Gan, Hamid Mokhtar, Sanming Zhou", "id": 371, "title": "Forwarding and optical indices of 4-regular circulant networks"}
+{"citation": "A. Caranti", "id": 372, "title": "A simple construction for a class of $p$-groups with all of their\n  automorphisms central"}
+{"citation": "Ning Zhang", "id": 373, "title": "A class of holomorphic self-maps of the loop space of P^n"}
+{"citation": "V\u00edtor H. Fernandes, Teresa M. Quinteiro", "id": 374, "title": "Presentations for monoids of finite partial isometries"}
+{"citation": "Mohammad Golshani", "id": 375, "title": "Definable tree property can hold at all uncountable regular cardinals"}
+{"citation": "Rudi Pendavingh, Jorn van der Pol", "id": 376, "title": "Asymptotics of Symmetry in Matroids"}
+{"citation": "Nurlan Ismailov, Ivan Kaygorodov, Yury Volkov", "id": 377, "title": "The geometric classification of Leibniz algebras"}
+{"citation": "Tom Brown", "id": 378, "title": "Approximations of additive squares in infinite words"}
+{"citation": "Benjamin McKay", "id": 379, "title": "Exotic geometric structures on Kodaira surfaces"}
+{"citation": "Yaroslav Lavrenyuk", "id": 380, "title": "Minimal generating sets in wreath products"}
+{"citation": "Vincent Padovani", "id": 381, "title": "Decidability of All Minimal Models (Revised Version - 2012)"}
+{"citation": "J. M. Aldaz", "id": 382, "title": "A monotonicity property of variances"}
+{"citation": "John Mangual", "id": 383, "title": "McMahon's Formula via Free Fermions"}
+{"citation": "Benjamin Druart", "id": 384, "title": "Cartan subgroups and generosity in $SL_2(\\mathbb{Q}_p)$"}
+{"citation": "Alexander Kasprzyk", "id": 385, "title": "Classifying terminal weighted projective space"}
+{"citation": "Zhihua Chang", "id": 386, "title": "Finite-dimensional subalgebras of the Virasoro algebra"}
+{"citation": "Mao Sheng, Jinxing Xu, Mingwei Zhang", "id": 387, "title": "On the Chern number inequalities satisfied by all smooth complete\n  intersection threefolds with ample canonical class"}
+{"citation": "Terrence M. Adams", "id": 388, "title": "Rigidity Sequences of Power Rationally Weakly Mixing Transformations"}
+{"citation": "Vadim V. Smirnov", "id": 389, "title": "The $\u03b6$-regularized product over all primes"}
+{"citation": "Krishnendra Shekhawat", "id": 390, "title": "Connectivity Algorithm"}
+{"citation": "V. Yu. Terebizh", "id": 391, "title": "All-spherical telescope with extremely wide field of view"}
+{"citation": "Serge Bouc, Jacques Th\u00e9venaz", "id": 392, "title": "The monoid algebra of all relations on a finite set"}
+{"citation": "Loukas Georgiadis, Giuseppe F. Italiano, Nikos Parotsidis", "id": 393, "title": "A New Framework for Strong Connectivity and 2-Connectivity in Directed\n  Graphs"}
+{"citation": "Ilia Binder, Damir Kinzebulatov, Mircea Voda", "id": 394, "title": "Non-Perturbative Localization with Quasiperiodic Potential in Continuous\n  Time"}
+{"citation": "T. C. Fujita, M. Uchida, Y. Kozuka, S. Ogawa, A. Tsukazaki, T. Arima, M. Kawasaki", "id": 395, "title": "All-in-all-out magnetic domain size in pyrochlore iridate thin films as\n  probed by local magnetotransport"}
+{"citation": "Tim Boykett, Jarkko Kari, Ville Salo", "id": 396, "title": "Strongly Universal Reversible Gate Sets"}
+{"citation": "Chafiq Benhida, Kamila Kli\u015b-Garlicka, Marek Ptak", "id": 397, "title": "Skew-symmetric operators and reflexivity"}
+{"citation": "Yining Hu", "id": 398, "title": "Explicit Implicit Function Theorem for All Fields"}
+{"citation": "A. Ber, V. Chilin, F. Sukochev, D. Zanin", "id": 399, "title": "Fuglede-Putnam theorem for locally measurable operators"}
+{"citation": "Agelos Georgakopoulos, Stephan Wagner", "id": 400, "title": "Subcritical graph classes containing all planar graphs"}
+{"citation": "Alexander Schmidt", "id": 401, "title": "On the \u00e9tale site of a marked scheme"}
+{"citation": "Roy Barbara", "id": 402, "title": "The Rational Distance Problem for Equilateral Triangles"}
+{"citation": "Odysseas Bakas", "id": 403, "title": "A multiplier inclusion theorem on product domains"}
+{"citation": "Gregory D. Hager, Randal Bryant, Eric Horvitz, Maja Mataric, Vasant Honavar", "id": 404, "title": "Advances in Artificial Intelligence Require Progress Across all of\n  Computer Science"}
+{"citation": "Mahadi Ddamulira, Florian Luca, Mihaja Rakotomalala", "id": 405, "title": "Fibonacci Numbers which are Products of two Pell Numbers"}
+{"citation": "Claud W. G. Dias Jr, Alexei Krasilnikov", "id": 406, "title": "On Lie nilpotent associative algebras"}
+{"citation": "Gilles Brassard, Paul Raymond-Robichaud", "id": 407, "title": "The equivalence of local-realistic and no-signalling theories"}
+{"citation": "Simon Macourt", "id": 408, "title": "Visible Points On Exponential Curves"}
+{"citation": "Mark D. Baker, Matthias Goerner, Alan W. Reid", "id": 409, "title": "All principal congruence link groups"}
+{"citation": "Alfred Geroldinger, Wolfgang Schmid", "id": 410, "title": "Which sets are sets of lengths in all numerical monoids?"}
+{"citation": "Eiji Ogasa", "id": 411, "title": "Nonribbon 2-links all of whose components are trivial knots and some of\n  whose band-sums are nonribbon knots"}
+{"citation": "Andrej Kastrin, Jelena Klisara, Borut Lu\u017ear, Janez Povh", "id": 412, "title": "Is science driven by principal investigators?"}
+{"citation": "Satoru Fukasawa, Kazuki Higashine", "id": 413, "title": "Galois lines for the Giulietti--Korchm\u00e1ros curve"}
+{"citation": "Jicun Wang-Michelitsch, Thomas M Michelitsch", "id": 414, "title": "Acute lymphoblastic leukemia may develop as a result of rapid\n  transformation of a lymphoblast triggered by repeated bone-remodeling during\n  bone-growth"}
+{"citation": "Eneko Agirre, David Martinez", "id": 415, "title": "Decision Lists for English and Basque"}
+{"citation": "Ronald I. Greenberg", "id": 416, "title": "Fast and Simple Computation of All Longest Common Subsequences"}
+{"citation": "Terry Gannon", "id": 417, "title": "Towards a Classification of su(2)$\\bigoplus\\cdots\\bigoplus$su(2) Modular\n  Invariant Partition Functions"}
+{"citation": "Nadav Drukker, David J. Gross", "id": 418, "title": "An Exact Prediction of N=4 SUSYM Theory for String Theory"}
+{"citation": "Michael Miller", "id": 419, "title": "The best possible quadratic refinement of Sendov's conjecture"}
+{"citation": "Melvyn B. Nathanson, Rohit Parikh", "id": 420, "title": "Density of sets of natural numbers and the Levy group"}
+{"citation": "Massimo Giulietti", "id": 421, "title": "Line partitions of internal points to a conic in PG(2,q)"}
+{"citation": "Andrew Putman", "id": 422, "title": "An infinite presentation of the Torelli group"}
+{"citation": "Ognyan Stoyanov", "id": 423, "title": "Poisson-Lie Structures on Infinite-Dimensional Jet Groups and Quantum\n  Groups Related to Them"}
+{"citation": "T. Rozovskaia, O. Ravid-Amir, S. Tillib, G. Getz, E. Feinstein, H. Agrawal, A. Nagler, E. Rappeport, I. Issaeva, Y. Matsuo, U. R. Kees, T. Lapidot, F. Lo Coco, R. Foa, A. Mazo, T. Nakamura, C. M. Croce, G. Cimino, E. Domany, E. Canaani", "id": 424, "title": "Expression profiles of acute lymphoblastic and myeloblastic leukemias\n  with ALL-1 rearrangements"}
+{"citation": "Eugen Radu, D. H. Tchrakian, Yisong Yang", "id": 425, "title": "Spherically symmetric selfdual Yang-Mills instantons on curved\n  backgrounds in all even dimensions"}
+{"citation": "Indranil Biswas", "id": 426, "title": "Semistability and restrictions of tangent bundle to curves"}
+{"citation": "Geng Tian, Luoyi Shi, Sen Zhu, Bingzhe Hou", "id": 427, "title": "Approximation of chaotic operators"}
+{"citation": "M. Eshaghi Gordji", "id": 428, "title": "Jordan $*-$homomorphisms between unital $C^*-$algebras"}
+{"citation": "Alessandro Bianco, Marco Faella, Fabio Mogavero, Aniello Murano", "id": 429, "title": "Quantitative Fairness Games"}
+{"citation": "David Dol\u017ean, Polona Oblak", "id": 430, "title": "The zero-divisor graphs of semirings"}
+{"citation": "Eddy Godelle, Luis Paris", "id": 431, "title": "Basic Questions on Artin-Tits groups"}
+{"citation": "Grigoriy Blekherman", "id": 432, "title": "Typical Real Ranks of Binary Forms"}
+{"citation": "Manoj K. Yadav", "id": 433, "title": "On finite $p$-groups whose central automorphisms are all class\n  preserving"}
+{"citation": "A. van Elteren, F. I. Pelupessy, S. Portegies Zwart", "id": 434, "title": "Multi-scale and multi-domain computational astrophysics"}
+{"citation": "Imre Barany, rolf Schneider", "id": 435, "title": "Typical curvature behaviour of bodies of constant width"}
+{"citation": "Tobias Holck Colding, William P. Minicozzi II", "id": 436, "title": "The singular set of mean curvature flow with generic singularities"}
+{"citation": "Samuel Tardif, Soshi Takeshita, Hiroyuki Ohsumi, Jun-ichi Yamaura, Daisuke Okuyama, Zenji Hiroi, Masaki Takata, Taka-hisa Arima", "id": 437, "title": "All-in/all-out magnetic domains: X-ray diffraction imaging and magnetic\n  field control"}
+{"citation": "Dursun A. Bulutoglu, Kenneth J. Ryan", "id": 438, "title": "Integer Programming for Classifying Orthogonal Arrays"}
+{"citation": "Dylan Airey, Bill Mance", "id": 439, "title": "Normality of different orders for Cantor series expansions"}
+{"citation": "Nemanja Dragani\u0107, Dragan Ma\u0161ulovi\u0107", "id": 440, "title": "A Ramsey Theorem for Multiposets"}
+{"citation": "Ana-Loredana Agore, Costel-Gabriel Bontea, Gigel Militaru", "id": 441, "title": "The Classification of All Crossed Products $H_4 \\# k[C_{n}]$"}
+{"citation": "Tullio Ceccherini-Silberstein, Michel Coornaert", "id": 442, "title": "On sofic monoids"}
+{"citation": "Alireza Makhzani, Brendan Frey", "id": 443, "title": "Winner-Take-All Autoencoders"}
+{"citation": "Mikhail P. Kharlamov, Pavel E. Ryabov", "id": 444, "title": "Topological atlas of the Kovalevskaya top in a double field"}
+{"citation": "Xiaoming Liu, Ji Zhou, Natalia Litchinitser, Jingbo Sun", "id": 445, "title": "Metamaterial all-optical switching based on resonance mode coupling in\n  dielectric meta-atoms"}
+{"citation": "Sizhong Zhou", "id": 446, "title": "Some existence theorems on all fractional $(g,f)$-factors with\n  prescribed properties"}
+{"citation": "Zhiren Sun, Sizhong Zhou", "id": 447, "title": "All fractional (g,f)-factors in graphs"}
+{"citation": "Christoph Aistleitner, Gerhard Larcher", "id": 448, "title": "On sequences with prescribed metric discrepancy behavior"}
+{"citation": "Miguel Couceiro, Lucien Haddad, Ivo G. Rosenberg", "id": 449, "title": "Partial clones containing all Boolean monotone self-dual partial\n  functions"}
+{"citation": "George Christodoulou, Alkmini Sgouritsa, Bo Tang", "id": 450, "title": "On the Efficiency of All-Pay Mechanisms"}
+{"citation": "A. Bertin, P. Dalmas de Reotier, B. Fak, C. Marin, A. Yaouanc, A. Forget, D. Sheptyakov, B. Frick, C. Ritter, A. Amato, C. Baines, P. J. C. King", "id": 451, "title": "Nd2Sn2O7: an all-in-all-out pyrochlore magnet with no divergence-free\n  field and anomalously slow paramagnetic spin dynamics"}
+{"citation": "Tony J. Puthenpurakal", "id": 452, "title": "Invariants of Linkage of modules"}
+{"citation": "Can Xiang", "id": 453, "title": "It is indeed a fundamental construction of all linear codes"}
+{"citation": "Yunping Jiang", "id": 454, "title": "Higher Order Oscillating Sequences, Affine Distal Flows on the\n  $d$-Torus, and Sarnak's Conjecture"}
+{"citation": "Hongliang Lu", "id": 455, "title": "The Complexity of All $(g,f)$-Factor Problem"}
+{"citation": "Gregory Gerard Wojnar, Daniel Sz. Wojnar, Leon Q. Brin", "id": 456, "title": "Universal Peculiar Linear Mean Relationships in All Polynomials"}
+{"citation": "Kris Coolsaet, Patrick W. Fowler, Jan Goedgebeur", "id": 457, "title": "Generation and properties of nut graphs"}
+{"citation": "S. Beck, U. Gran, J. Gutowski, G. Papadopoulos", "id": 458, "title": "All Killing Superalgebras for Warped AdS Backgrounds"}
+{"citation": "U\u011fur Te\u011fin, B\u00fclend Orta\u00e7", "id": 459, "title": "All-fiber all-normal-dispersion femtosecond laser with nonlinear\n  multimodal interference based saturable absorber"}
+{"citation": "Ming-Zhu Chen, A-Ming Liu, Xiao-Dong Zhang", "id": 460, "title": "Spectral extremal results with forbidding linear forests"}
+{"citation": "Ilkyoo Choi, Chun-Hung Liu, Sang-il Oum", "id": 461, "title": "Characterization of cycle obstruction sets for improper coloring planar\n  graphs"}
+{"citation": "Bradley E. Schaefer", "id": 462, "title": "Comprehensive Photometric Histories of All Known Galactic Recurrent\n  Novae"}
+{"citation": "Tapani Hyttinen, Saharon Shelah, Jouko V\u00e4\u00e4n\u00e4nen", "id": 463, "title": "More on the Ehrenfencht-Fraisse game of length omega_1"}
+{"citation": "Paul L. Csonka", "id": 464, "title": "One World, One Reality, and the Everett Relaltive State Interpretation\n  of Quantum Mechanics"}
+{"citation": "Ehsan Hatefi", "id": 465, "title": "Shedding light on new Wess-Zumino couplings with their corrections to\n  all orders in alpha-prime"}
+{"citation": "Othon Michail, Paul G. Spirakis", "id": 466, "title": "Simple and Efficient Local Codes for Distributed Stable Network\n  Construction"}
+{"citation": "Petr Gregor, Torsten M\u00fctze", "id": 467, "title": "Trimming and gluing Gray codes"}
+{"citation": "S. Scaringi, T. J. Maccarone, M. Middleton", "id": 468, "title": "Reversibility of time series: revealing the hidden messages in X-ray\n  binaries and cataclysmic variables"}
+{"citation": "Rami Grossberg, Sebastien Vasey", "id": 469, "title": "Equivalent definitions of superstability in tame abstract elementary\n  classes"}
+{"citation": "Ehsan Hatefi", "id": 470, "title": "On D-brane-Anti D-brane Effective actions and their all order Bulk\n  Singularity Structures"}
+{"citation": "M. S. El Hadri, P. Pirro, C. -H. Lambert, S. Petit-Watelot, Y. Quessab, M. Hehn, F. Montaigne, G. Malinowski, S. Mangin", "id": 471, "title": "Two types of all-optical magnetization switching mechanisms using\n  femtosecond laser pulses"}
+{"citation": "Raphael Yuster", "id": 472, "title": "On the exact maximum induced density of almost all graphs and their\n  inducibility"}
+{"citation": "Charudatta Navare, Anirban Banerji", "id": 473, "title": "Residue mobility has decreased during protein evolution"}
+{"citation": "J. E. Grindlay, T. A. Prince, F. Harrison, N. Gehrels, C. J. Hailey, B. Ramsey, M. C. Weisskopf, G. K. Skinner, P. Ubertini", "id": 474, "title": "Proposed (to) EXIST: Hard X-ray Imaging All Sky Survey/Monitor"}
+{"citation": "A. Zeh, S. Klose, D. H. Hartmann", "id": 475, "title": "Evidence for Supernova light in all Gamma-Ray Burst afterglows"}
+{"citation": "Lior Shamir, Robert J. Nemiroff", "id": 476, "title": "OT 060420: A Seemingly Optical Transient Recorded by All-Sky Cameras"}
+{"citation": "C. -T. Gottstein, R. F. Werner", "id": 477, "title": "Ground states of the infinite q-deformed Heisenberg ferromagnet"}
+{"citation": "Marijan Ko\u0161trun, Juha Javanainen", "id": 478, "title": "Eigenstates and excitations of the simple atom-molecule Bose-Einstein\n  condensate"}
+{"citation": "Makoto Homma, Chigak Itoi", "id": 479, "title": "Gapless Excitation above a Domain Wall Ground State in a Flat Band\n  Hubbard Model"}
+{"citation": "Ayan Datta, Swapan K Pati", "id": 480, "title": "First examples of stable transition metal complexes of an all-metal\n  antiaromatic molecule (Al$_4$Li$_4$)"}
+{"citation": "Charles W. Bauschlicher, Jr., John W. Lawson", "id": 481, "title": "Current-Voltage Curves for Molecular Junctions Computed Using\n  All-Electron Basis Sets"}
+{"citation": "Pawel Cholewinski, Miroslaw Truszczynski", "id": 482, "title": "Extremal problems in logic programming and stable model computation"}
+{"citation": "Marcus Hutter, Andrej Muchnik", "id": 483, "title": "Universal Convergence of Semimeasures on Individual Random Sequences"}
+{"citation": "Nima Sarshar, Xiaolin Wu", "id": 484, "title": "Joint Network-Source Coding: An Achievable Region with Diversity Routing"}
+{"citation": "Matt Visser", "id": 485, "title": "Gravitational vacuum polarization II: Energy conditions in the Boulware\n  vacuum"}
+{"citation": "H. Babujian, M. Karowski", "id": 486, "title": "Sine-Gordon breather form factors and quantum field equations"}
+{"citation": "Menachem Kojman", "id": 487, "title": "Representing embeddability as set inclusion"}
+{"citation": "R. Pandharipande", "id": 488, "title": "The Toda equations and the Gromov-Witten theory of the Riemann sphere"}
+{"citation": "Malgorzata Rowicka-Kudlicka", "id": 489, "title": "Braided quantum groups related to the quantum \"ax+b\" group"}
+{"citation": "Malgorzata Rowicka-Kudlicka", "id": 490, "title": "Exponential equations for the quantum \"az+b\" group"}
+{"citation": "Boris Botvinnik, Jonathan Rosenberg", "id": 491, "title": "The Yamabe invariant for non-simply connected manifolds"}
+{"citation": "Volker Kaibel", "id": 492, "title": "On the Expansion of Graphs of 0/1-Polytopes"}
+{"citation": "Damien Roy", "id": 493, "title": "On two exponents of approximation related to a real number and its\n  square"}
+{"citation": "Long Wang", "id": 494, "title": "Coordination of Multiple Dynamic Agents with Asymmetric Interactions"}
+{"citation": "Warren Dicks, Peter A. Linnell", "id": 495, "title": "L^2-Betti numbers of one-relator groups"}
+{"citation": "Friedrich Wehrung", "id": 496, "title": "Poset representations of distributive semilattices"}
+{"citation": "Evgeny Korotyaev, Igor Lobanov", "id": 497, "title": "Schr\u00f6dinger operators on zigzag graphs"}
+{"citation": "Noga Alon, Eyal Lubetzky", "id": 498, "title": "Uniformly cross intersecting families"}
+{"citation": "Ruchira S. Datta", "id": 499, "title": "Finding All Nash Equilibria of a Finite Game Using Polynomial Algebra"}
+{"citation": "Jack Sonn", "id": 500, "title": "Polynomials with roots in ${\\Bbb Q}_p$ for all $p$"}
+{"citation": "Robert Lockhart, Michael Steiner", "id": 501, "title": "Preserving entanglement under decoherence and sandwiching all separable\n  states"}
+{"citation": "N. L. Chuprikov", "id": 502, "title": "A comparative analysis of tunneling time concepts: Where do transmitted\n  particles start from, on the average?"}
+{"citation": "Yu Tanaka, Damian Markham, Mio Murao", "id": 503, "title": "Local encoding of classical information onto quantum states"}
+{"citation": "Beth Andrews, Richard A. Davis, F. Jay Breidt", "id": 504, "title": "Rank-based estimation for all-pass time series models"}
+{"citation": "Marcus Hutter, Andrej Muchnik", "id": 505, "title": "On Semimeasures Predicting Martin-Loef Random Sequences"}
+{"citation": "Wieslaw Kubis, Katsuro Sakai", "id": 506, "title": "Hausdorff hyperspaces of $R^m$ and their dense subspaces"}
+{"citation": "Goran Bjorck, Uffe Haagerup", "id": 507, "title": "All cyclic p-roots of index 3, found by symmetry-preserving calculations"}
+{"citation": "Kiyoshi Higashijima, Takahiro Nishinaka", "id": 508, "title": "All orders analysis of three dimensional CP^(N-1) model in 1/N-expansion"}
+{"citation": "Patrick Hayden, Andreas Winter", "id": 509, "title": "Counterexamples to the maximal p-norm multiplicativity conjecture for\n  all p > 1"}
+{"citation": "Sougato Bose, Andrea Casaccino, Stefano Mancini, Simone Severini", "id": 510, "title": "Communication in XYZ All-to-All Quantum Networks with a Missing Link"}
+{"citation": "Itzhak Bars", "id": 511, "title": "Relativistic Harmonic Oscillator Revisited"}
+{"citation": "Tatiana Shulman", "id": 512, "title": "Semiprojectivity of universal C*-algebras generated by algebraic\n  elements"}
+{"citation": "Taras Banakh, Olexandr Ravsky", "id": 513, "title": "Oscillator topologies on a paratopological group and related number\n  invariants"}
+{"citation": "Wolfgang Reich, Patricia Reich", "id": 514, "title": "Measuring and calibrating Galactic synchrotron emission"}
+{"citation": "Xiangyu Cao, Zhi L\u00fc", "id": 515, "title": "Cohomological rigidity and the number of homeomorphism types for small\n  covers over prisms"}
+{"citation": "Vladimir Rosenhaus, Washington Taylor", "id": 516, "title": "Diversity in the Tail of the Intersecting Brane Landscape"}
+{"citation": "Fabio Riccioni, Duncan Steele, Peter West", "id": 517, "title": "The E(11) origin of all maximal supergravities - the hierarchy of\n  field-strengths"}
+{"citation": "Jeppe R. Andersen, Jennifer M. Smillie", "id": 518, "title": "All-Order Corrections and Multi-Jet Rates"}
+{"citation": "Lance J. Dixon, Einan Gardi, Lorenzo Magnea", "id": 519, "title": "All-order results for infrared and collinear singularities in massless\n  gauge theories"}
+{"citation": "P. Meessen, T. Ortin, S. Vaula", "id": 520, "title": "All the timelike supersymmetric solutions of all ungauged d=4\n  supergravities"}
+{"citation": "G. P. A. Nobre, I. J. Thompson, J. E. Escher, F. S. Dietrich", "id": 521, "title": "Reaction cross-section predictions for nucleon induced reactions"}
+{"citation": "V. Yu. Shaprynskii", "id": 522, "title": "Modular and lower-modular elements of lattices of semigroup varieties"}
+{"citation": "Nikolay Ivanov, Dimiter Vakarelov", "id": 523, "title": "A system of relational syllogistic incorporating full Boolean reasoning"}
+{"citation": "Darij Grinberg", "id": 524, "title": "Zeckendorf family identities generalized"}
+{"citation": "H. Gharibnejad, E. Eliav, M. S. Safronova, A. Derevianko", "id": 525, "title": "Resolving all-order method convergence problems for atomic physics\n  applications"}
+{"citation": "Zheng-Xin Liu, Xie Chen, Xiao-Gang Wen", "id": 526, "title": "Symmetry protected topological orders of 1D spin systems with D2+T\n  symmetry"}
+{"citation": "Miron B. Kursa, Witold R. Rudnicki", "id": 527, "title": "The All Relevant Feature Selection using Random Forest"}
+{"citation": "Johannes Broedel, John Joseph M. Carrasco", "id": 528, "title": "Virtuous Trees at Five and Six Points for Yang-Mills and Gravity"}
+{"citation": "Alex Scott, Matthew White", "id": 529, "title": "Monochromatic cycles and the monochromatic circumference in 2-coloured\n  graphs"}
+{"citation": "Lianggui Feng, Kaiming Zhao", "id": 530, "title": "A new method of finding all Roots of simple quaternionic polynomials"}
+{"citation": "G. Akemann, M. J. Phillips", "id": 531, "title": "Universality Conjecture for all Airy, Sine and Bessel Kernels in the\n  Complex Plane"}
+{"citation": "A. L. Agore, C. G. Bontea, G. Militaru", "id": 532, "title": "Classifying coalgebra split extensions of Hopf algebras"}
+{"citation": "S. L. Cacciatori, F. Dalla Piazza, A. Scotti", "id": 533, "title": "Compact Lie groups: Euler constructions and generalized Dyson conjecture"}
+{"citation": "Andrey D. Pryamikov", "id": 534, "title": "The core modes of all solid photonic band gap fibers as bound states in\n  the continuum"}
+{"citation": "M. Aghapournahr, KH. Ahmadi-amoli, M. Y. Sadeghi", "id": 535, "title": "Upper bounds, cofiniteness, and artinianness of local cohomology modules\n  defined by a pair of ideals"}
+{"citation": "Jie Zhang, Xiao-Dong Zhang", "id": 536, "title": "On signless Laplacian coefficients of bicyclic graphs"}
+{"citation": "Zhaoqiang Bai, Yongqing Cai, Lei Shen, Guchang Han, Yuanping Feng", "id": 537, "title": "All-Heusler giant-magnetoresistance junctions with matched energy bands\n  and Fermi surfaces"}
+{"citation": "O. Yu. Dashkova", "id": 538, "title": "On modules over group rings of groups with restrictions on the system of\n  all proper subgroups"}
+{"citation": "Urmila Shrawankar, V M Thakare", "id": 539, "title": "Speech based Password Protected Cyber Applications"}
+{"citation": "Johannes M. Henn, Alexander V. Smirnov, Vladimir A. Smirnov", "id": 540, "title": "Analytic results for planar three-loop four-point integrals from a\n  Knizhnik-Zamolodchikov equation"}
+{"citation": "Tong-Wook Shinn, Tadao Takaoka", "id": 541, "title": "Some Extensions of the All Pairs Bottleneck Paths Problem"}
+{"citation": "Cuicui Lu, Xiaoyong Hu, Hong Yang, Qihuang Gong", "id": 542, "title": "Integrated all-optical logic discriminators based on plasmonic bandgap\n  engineering"}
+{"citation": "Scott Tremaine, Tomer Yavetz", "id": 543, "title": "Why do Earth satellites stay up?"}
+{"citation": "Tong-Wook Shinn, Tadao Takaoka", "id": 544, "title": "Combining the Shortest Paths and the Bottleneck Paths Problems"}
+{"citation": "Amlan K. Roy", "id": 545, "title": "The generalized pseudospectral approach to the bound states of Hulthen\n  and Yukawa potentials"}
+{"citation": "Andreas B\u00e4chle", "id": 546, "title": "The Subgroup Normalizer Problem for Integral Group Rings of some\n  Nilpotent and Metacyclic Groups"}
+{"citation": "Evangelos Melas", "id": 547, "title": "Representations of the ultrahyperbolic BMS group HB. III. Determination\n  of the representations induced from finite little groups"}
+{"citation": "Mohammad S. Karim, Parastoo Sadeghi, Neda Aboutorab, Sameh Sorour", "id": 548, "title": "In Order Packet Delivery in Instantly Decodable Network Coded Systems\n  over Wireless Broadcast"}
+{"citation": "Maria Axenovich, Enrica Cherubini, Torsten Ueckerdt", "id": 549, "title": "Spectrum of mixed bi-uniform hypergraphs"}
+{"citation": "Aleksandra Marinkovic, Milena Pabiniak", "id": 550, "title": "On displaceability of pre-Lagrangian fibers in contact toric manifolds"}
+{"citation": "Llu\u00eds Alsed\u00e0, David Juher, J\u00e9r\u00f4me Los, Francesc Ma\u00f1osas", "id": 551, "title": "Volume entropy for minimal presentations of surface groups in all ranks"}
+{"citation": "Rod Halburd, Jun Wang", "id": 552, "title": "All admissible meromorphic solutions of Hayman's equation"}
+{"citation": "Vladimir Pletser", "id": 553, "title": "General solutions of sums of consecutive cubed integers equal to squared\n  integers"}
+{"citation": "Peng Wang", "id": 554, "title": "A characterization of the Ejiri torus in $S^{5}$"}
+{"citation": "Itamar Stein", "id": 555, "title": "The representation theory of the monoid of all partial functions on a\n  set and related monoids as EI-category algebras"}
+{"citation": "Paul Federbush", "id": 556, "title": "A Mysterious Cluster Expansion Associated to the Expectation Value of\n  the Permanent of 0-1 Matrices"}
+{"citation": "Sheila Sundaram", "id": 557, "title": "On conjugacy classes of $S_n$ containing all irreducibles"}
+{"citation": "Senping Luo, Wenming Zou", "id": 558, "title": "Existence, nonexistence, symmetry and uniqueness of ground state for\n  critical Schr\u00f6dinger system involving Hardy term"}
+{"citation": "Saptarshi Roy, Tamoghna Das, Asutosh Kumar, Aditi Sen De, Ujjwal Sen", "id": 559, "title": "Activation of Nonmonogamous Multipartite Quantum States"}
+{"citation": "Andreas B\u00e4chle, Allen Herman, Alexander Konovalov, Leo Margolis, Gurmail Singh", "id": 560, "title": "The status of the Zassenhaus conjecture for small groups"}
+{"citation": "Peter Frankl, Vojtech R\u00f6dl, Andrzej Ruci\u0144ski", "id": 561, "title": "Short Proof of Erd\\H os Conjecture for Triple Systems"}
+{"citation": "Jonathan Jaquette, Jean-Philippe Lessard, Konstantin Mischaikow", "id": 562, "title": "Stability and Uniqueness of Slowly Oscillating Periodic Solutions to\n  Wright's Equation"}
+{"citation": "Csaba S\u00e1ndor, Quan-Hui Yang", "id": 563, "title": "On some properties of representation functions related to the\n  Erd\u0151s-Tur\u00e1n conjecture"}
+{"citation": "Helmut Z\u00f6schinger", "id": 564, "title": "\u00dcber die von einem Ideal $I \\subset R$ erzeugten $R$-Moduln II"}
+{"citation": "Samson Abramsky, Rui Soares Barbosa, Giovanni Car\u00f9, Simon Perdrix", "id": 565, "title": "A complete characterisation of All-versus-Nothing arguments for\n  stabiliser states"}
+{"citation": "David Bachiller, Ferran Ced\u00f3, Eric Jespers, Jan Okni\u0144ski", "id": 566, "title": "Asymmetric product of left braces and simplicity; new solutions of the\n  Yang-Baxter equation"}
+{"citation": "Chaya Keller, Micha A. Perles", "id": 567, "title": "Characterization of co-blockers for simple perfect matchings in a convex\n  geometric graph"}
+{"citation": "Alberto Marcone, Antonio Montalb\u00e1n, Richard A. Shore", "id": 568, "title": "Computing Maximal Chains"}
+{"citation": "Mathias P\u00e9tr\u00e9olle", "id": 569, "title": "Characterization of Cyclically Fully commutative elements in finite and\n  affine Coxeter Groups"}
+{"citation": "Adam Chapman, Andrew Dolphin, Ahmed Laghribi", "id": 570, "title": "Total linkage of quaternion algebras and Pfister forms in characteristic\n  two"}
+{"citation": "Hiroyuki Miyata, Arnau Padrol", "id": 571, "title": "Enumerating neighborly polytopes and oriented matroids"}
+{"citation": "Pablo Cubides-Kovacsics, Fran\u00e7oise Delon", "id": 572, "title": "Definable types in algebraically closed valued fields"}
+{"citation": "Stefan Schulze Frielinghaus, Michael Petter, Helmut Seidl", "id": 573, "title": "Inter-procedural Two-Variable Herbrand Equalities"}
+{"citation": "Nihat Sadik Deger, George Moutsopoulos, Henning Samtleben, Ozgur Sarioglu", "id": 574, "title": "All timelike supersymmetric solutions of three-dimensional half-maximal\n  supergravity"}
+{"citation": "Xu Ding, Chun-Hung Liu, Li-Chun Wang, Xiaohui Zhao", "id": 575, "title": "Coexisting Success Probability and Throughput of Multi-RAT Wireless\n  Networks with Unlicensed Band Access"}
+{"citation": "Maysam Maysami Sadr", "id": 576, "title": "On the quantum groups and semigroups of maps between noncommutative\n  spaces"}
+{"citation": "J. Almeida, J. C. Costa, M. Zeitoun", "id": 577, "title": "Reducibility of pointlike problems"}
+{"citation": "Michelle Przedborski, Stephen C. Anco", "id": 578, "title": "Travelling waves and conservation laws for highly nonlinear wave\n  equations modelling Hertz chains"}
+{"citation": "Dierk Schleicher, Robin Stoll", "id": 579, "title": "Newton's method in practice: finding all roots of polynomials of degree\n  one million efficiently"}
+{"citation": "Hao Chen, Arnau Padrol", "id": 580, "title": "Scribability problems for polytopes"}
+{"citation": "K. Krishna Mohan Reddy, P. Renjith, N. Sadagopan", "id": 581, "title": "Listing All Spanning Trees in Halin Graphs - Sequential and Parallel\n  view"}
+{"citation": "Chang-Heng Wang, Tara Javidi", "id": 582, "title": "Adaptive Policies for Scheduling with Reconfiguration Delay: An\n  End-to-End Solution for All-Optical Data Centers"}
+{"citation": "Ahmad Ghodsi, Mohammad R. Garousi, Ghadir Jafari", "id": 583, "title": "On T-duality of $R^2$-corrections to DBI action at all orders of gauge\n  field"}
+{"citation": "Barbara Kaltenbacher", "id": 584, "title": "Regularization based on all-at-once formulations for inverse problems"}
+{"citation": "Colin McDiarmid, Nikola Yolov", "id": 585, "title": "Random Perfect Graphs"}
+{"citation": "V. Rosenhaus, Ravi Shankar", "id": 586, "title": "Second Noether theorem for quasi-Noether systems"}
+{"citation": "Martin C. Cooper, Andreas Herzig, Faustine Maffre, Fr\u00e9d\u00e9ric Maris, Pierre R\u00e9gnier", "id": 587, "title": "Simple epistemic planning: generalised gossiping"}
+{"citation": "Raban Iten, Roger Colbeck", "id": 588, "title": "Smooth manifold structure for extreme channels"}
+{"citation": "Mark O'Neill, Scott Heidbrink, Jordan Whitehead, Scott Ruoti, Dan Bunker, Kent Seamons, Daniel Zappala", "id": 589, "title": "TrustBase: An Architecture to Repair and Strengthen Certificate-based\n  Authentication"}
+{"citation": "Piotr Sankowski, Karol W\u0119grzycki", "id": 590, "title": "Improved Distance Queries and Cycle Counting by Frobenius Normal Form"}
+{"citation": "Mengxing Ye, Andrey V. Chubukov", "id": 591, "title": "Quantum phase transitions in Heisenberg $J_1-J_2$ triangular\n  antiferromagnet in a magnetic field"}
+{"citation": "Jared C. Bronski, Yizhang He, Xinye Li, Yue Liu, Danielle Rae Sponseller, Seth Wolbert", "id": 592, "title": "The stability of fixed points for a Kuramoto model with Hebbian\n  interactions"}
+{"citation": "Kan Wu, Chaoshi Guo, Hao Wang, Xiaoyan Zhang, Jun Wang, Jianping Chen", "id": 593, "title": "An all optical phase shifter and switch near 1550nm using tungsten\n  disulfide (WS2) deposited tapered fiber"}
+{"citation": "Xi-Wang Luo, Xingxiang Zhou, Jin-Shi Xu, Chuan-Feng Li, Guang-Can Guo, Chuanwei Zhang, Zheng-Wei Zhou", "id": 594, "title": "Synthetic photonic lattices: new routes towards all-optical photonic\n  devices"}
+{"citation": "Csaba S\u00e1ndor, Quan-Hui Yang", "id": 595, "title": "A lower bound of Ruzsa's number related to the Erd\u0151s-Tur\u00e1n\n  conjecture"}
+{"citation": "Gokce Basar, Gerald V. Dunne, Mithat Unsal", "id": 596, "title": "Quantum Geometry of Resurgent Perturbative/Nonperturbative Relations"}
+{"citation": "Alejandro Cohen, Asaf Cohen, Muriel Medard, Omer Gurewitz", "id": 597, "title": "Secure Multi-Source Multicast"}
+{"citation": "Xizhe Zhang, Jianfei Han, Weixiong Zhang", "id": 598, "title": "An efficient algorithm for finding all possible input nodes for\n  controlling complex networks"}
+{"citation": "Arit Kumar Bishwas, Ashish Mani, Vasile Palade", "id": 599, "title": "An All-Pair Quantum SVM Approach for Big Data Multiclass Classification"}
+{"citation": "Zhong Han, Yong Chen", "id": 600, "title": "General mixed multi-soliton solution to the multi-component Maccari\n  system"}
+{"citation": "Zhong Han, Yong Chen", "id": 601, "title": "Bright-dark mixed $N$-soliton solutions of the multi-component Mel'nikov\n  system"}
+{"citation": "Amir Hashemi, Martin Kreuzer, Samira Pourkhajouei", "id": 602, "title": "Computing all border bases for ideals of points"}
+{"citation": "P. -L. Giscard, R. C. Wilson", "id": 603, "title": "The All-Paths and Cycles Graph Kernel"}
+{"citation": "Huangjun Zhu, Masahito Hayashi", "id": 604, "title": "Universally Fisher-Symmetric Informationally Complete Measurements"}
+{"citation": "K. M. Aggarwal", "id": 605, "title": "Discrepancies in Atomic Data and Suggestions for their Resolutions"}
+{"citation": "Karthik Inbasekar, Sachin Jain, Pranjal Nayak, V. Umesh", "id": 606, "title": "All tree level scattering amplitudes in Chern-Simons theories with\n  fundamental matter"}
+{"citation": "Ladislav Mi\u0161ta Jr., Kl\u00e1ra Baksov\u00e1", "id": 607, "title": "Gaussian intrinsic entanglement for states with partial minimum\n  uncertainty"}
+{"citation": "Yair Caro, Raphael Yuster", "id": 608, "title": "The effect of local majority on global majority in connected graphs"}
+{"citation": "D. H. Tchrakian", "id": 609, "title": "Chern-Simons Gravities (CSG) and Gravitational Chern-Simons (GCS)\n  densities in all dimensions"}
+{"citation": "Thomas D. Galley, Lluis Masanes", "id": 610, "title": "Impossibility of mixed-state purification in any alternative to the Born\n  Rule"}
+{"citation": "Hajar Roshan-Shekalgourabi", "id": 611, "title": "Cominimaxness with respect to ideals of dimension one"}
+{"citation": "Janusz Dybizba\u0144ski, Andrzej Szepietowski", "id": 612, "title": "Hamiltonian cycles in hypercubes with faulty edges"}
+{"citation": "M. Nikhil Krishnan, Anantha Narayanan R., P. Vijay Kumar", "id": 613, "title": "Codes with Combined Locality and Regeneration Having Optimal Rate,\n  $d_{\\text{min}}$ and Linear Field Size"}
+{"citation": "Antoni Kijowski", "id": 614, "title": "Characterization of mean value harmonic functions on norm induced metric\n  measure spaces with weighted Lebesgue measure"}
+{"citation": "Jes\u00fas Lacalle, Laura N. Gatti", "id": 615, "title": "Extended Lagrange's four-square theorem"}
+{"citation": "Hang Liu, Hengyu Li, Jun Luo, Shaorong Xie, Yu Sun", "id": 616, "title": "Construction of all-in-focus images assisted by depth sensing"}
+{"citation": "Frank Sottile", "id": 617, "title": "Real enumerative geometry and effective algebraic equivalence"}
+{"citation": "P. Mazzotta, G. Mazzitelli, S. Colafrancesco, N. Vittorio", "id": 618, "title": "Ionization balance for optically thin plasmas: rate coefficients for all\n  atoms and ions of the elements H to Ni"}
+{"citation": "A. De Rujula", "id": 619, "title": "GRBs in the Cannonball model: an overview"}
+{"citation": "M. A. McLaughlin, J. M. Rankin", "id": 620, "title": "'Notches' in the Profiles of Bright Pulsars"}
+{"citation": "A. D. Rutenberg", "id": 621, "title": "Non-equilibrium Phase-Ordering with a Global Conservation Law"}
+{"citation": "Joel Feldman, Manfred Salmhofer, Eugene Trubowitz", "id": 622, "title": "Regularity of the moving Fermi surface: the exact selfenergy"}
+{"citation": "Sergei Nechaev", "id": 623, "title": "Localization in simple multiparticle catalytic absorption model"}
+{"citation": "Ilya Grinberg, Nicholas J. Ramer, Andrew M. Rappe", "id": 624, "title": "Transferable relativistic Dirac-Slater pseudopotentials"}
+{"citation": "Eugene H. Kim, G. Fath, J. Solyom, D. J. Scalapino", "id": 625, "title": "Phase Transitions Between Topologically Distinct Gapped Phases in\n  Isotropic Spin Ladders"}
+{"citation": "Chris J. Pickard, Francesco Mauri", "id": 626, "title": "All-electron magnetic response with pseudopotentials: NMR chemical\n  shifts"}
+{"citation": "M. C. Cross, A. Zumdieck, Ron Lifshitz, J. L. Rogers", "id": 627, "title": "Synchronization by Nonlinear Frequency Pulling"}
+{"citation": "Clifford M. Krowne", "id": 628, "title": "All Electronic Isolator Action Device Based on Negative Refractive\n  Heterostructure Bi-Crystal with Field Induced Asymmetry"}
+{"citation": "J. P. D'Incao, B. D. Esry", "id": 629, "title": "Scattering Length Scaling Laws for Ultracold Three-Body Collisions"}

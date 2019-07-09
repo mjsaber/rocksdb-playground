@@ -1,0 +1,7 @@
+{"citation": "Clara Fernandez-Labrador, Alejandro Perez-Yus, Gonzalo Lopez-Nicolas, Jose J. Guerrero", "id": 1, "title": "Layouts from Panoramic Images with Geometry and Deep Learning"}
+{"citation": "AJ Piergiovanni, Michael S. Ryoo", "id": 2, "title": "Learning Shared Multimodal Embeddings with Unpaired Data"}
+{"citation": "Ching Tarn, Yinan Zhang, Ye Feng", "id": 3, "title": "Sampling Clustering"}
+{"citation": "Nhan Duy Truong, Levin Kuhlmann, Mohammad Reza Bonyadi, Omid Kavehei", "id": 4, "title": "Semi-supervised Seizure Prediction with Generative Adversarial Networks"}
+{"citation": "Romain Br\\u00e9gier (Inria), Fr\\u00e9d\\u00e9ric Devernay (PRIMA, IMAGINE), Laetitia Leyrit (LASMEA), James Crowley", "id": 5, "title": "Symmetry Aware Evaluation of 3D Object Detection and Pose Estimation in Scenes of Many Parts in Bulk"}
+{"citation": "Daochang Liu, Tingting Jiang", "id": 6, "title": "Deep Reinforcement Learning for Surgical Gesture Segmentation and Classification"}
+{"citation": "Alex D. Pon, Oles Andrienko, Ali Harakeh, Steven L. Waslander", "id": 7, "title": "A Hierarchical Deep Architecture and Mini-Batch Selection Method For Joint Traffic Sign and Light Detection"}
