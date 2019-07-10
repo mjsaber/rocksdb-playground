@@ -3,6 +3,7 @@
 #include "rocksdb/db.h"
 #include "services/http/HttpServer.h"
 #include "services/http/HttpUtils.h"
+#include "services/http/HealthCheckHandler.h"
 #include "services/http/LambdaHandler.h"
 #include "services/http/SearchHandler.h"
 #include "services/http/SimpleHttpRouter.h"
@@ -75,6 +76,8 @@ int main(int argc, char **argv) {
                     session->respond(HttpUtils::buildJsonResponse(
                         session, "{\"source\":\"lambda\"}"));
                   }));
+
+  router ->get("/health_check", std::make_shared<services::http::HealthCheckHandler>());
 
   router->setFallback(static_pointer_cast<services::http::HttpRequestHandler>(
       std::make_shared<services::http::StaticFileHandler>(FLAGS_root_path)));

@@ -6,6 +6,7 @@ cc_binary(
         ":static_file_handler",
         ":search_handler",
         ":lambda_handler",
+        ":health_check_handler",
         ":simple_http_router",
         "//services/http/recommender:plain_recommender",
         # TODO(HOMEWORK-4): ADD YOUR CODE HERE.
@@ -121,6 +122,23 @@ cc_library(
         ":http_session",
         "//external:boost",
         "//external:glog",
+    ],
+)
+
+cc_library(
+    name = "health_check_handler",
+    srcs = [
+        "HealthCheckHandler.cpp",
+    ],
+    hdrs = [
+        "HealthCheckHandler.h",
+    ],
+    deps = [
+        ":http_session",
+        ":http_utils",
+        "//external:boost",
+        "//external:glog",
+        "//external:nlohmann_json",
     ],
 )
 
