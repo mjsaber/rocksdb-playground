@@ -30,10 +30,11 @@ cc_library(
         "RocksDbDataSource.h",
     ],
     srcs = [
-        "RocksDbDataSource.cpp"
+        "RocksDbDataSource.cpp",
     ],
     deps = [
         ":data_source_base",
+        ":rocksdb_utils",
         "//external:rocksdb",
         "//external:glog",
     ],

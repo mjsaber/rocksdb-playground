@@ -1,7 +1,6 @@
 #include "services/http/data_source/RocksDbDataSource.h"
+#include "services/http/data_source/RocksDbUtils.h"
 #include "glog/logging.h"
-
-// TODO(HOMEWORK-2): ADD YOUR CODE HERE.
 
 namespace services {
 namespace http {
@@ -12,8 +11,7 @@ RocksDbDataSource::RocksDbDataSource(std::shared_ptr<rocksdb::DB> instance) : db
 }
 
 std::vector<QueryResult> RocksDbDataSource::query(const std::string &key) {
-  // TODO(HOMEWORK-2): ADD YOUR CODE HERE.
-  return {};
+  return services::http::data_source::RocksDbUtils::searchPrefix(db_.get(), key);
 }
 
 } // namespace data_source
