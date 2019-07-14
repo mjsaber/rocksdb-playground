@@ -28,7 +28,15 @@ cc_library(
 
 cc_library(
     name = "lexical_recommender",
-    # TODO(HOMEWORK-3): ADD YOUR CODE HERE.
+    hdrs = [
+        "LexicalRecommender.h",
+    ],
+    srcs = [
+        "LexicalRecommender.cpp",
+    ],
+    deps = [
+        ":recommender_base",
+    ],
 )
 
 cc_test(
