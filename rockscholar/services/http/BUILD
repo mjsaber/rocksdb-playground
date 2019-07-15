@@ -8,8 +8,7 @@ cc_binary(
         ":lambda_handler",
         ":health_check_handler",
         ":simple_http_router",
-        "//services/http/recommender:plain_recommender",
-        # TODO(HOMEWORK-4): ADD YOUR CODE HERE.
+        "//services/http/recommender:lexical_recommender",
         "//services/http/data_source:rocksdb_data_source",
         "//external:gflags",
         "//external:glog",

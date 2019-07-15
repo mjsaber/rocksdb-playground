@@ -9,8 +9,7 @@
 #include "services/http/SimpleHttpRouter.h"
 #include "services/http/StaticFileHandler.h"
 #include "services/http/data_source/RocksDbDataSource.h"
-#include "services/http/recommender/PlainRecommender.h"
-// TODO(HOMEWORK-4): ADD YOUR CODE HERE.
+#include "services/http/recommender/LexicalRecommender.h"
 
 #include <iostream>
 #include <memory>
@@ -56,9 +55,8 @@ int main(int argc, char **argv) {
 
   // Register handlers...
 
-  // TODO(HOMEWORK-4): UPDATE THE FOLLOWING LINE AND FIX INCLUDE.
   auto recommender =
-      std::make_unique<services::http::recommender::PlainRecommender>();
+      std::make_unique<services::http::recommender::LexicalRecommender>();
 
   recommender->setDataSource(
       std::make_unique<services::http::data_source::RocksDbDataSource>(db));
